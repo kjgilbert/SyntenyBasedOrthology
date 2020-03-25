@@ -1,0 +1,1444 @@
+Synthetic evolution
+-------------------
+
+first organism (artificial sequences): 50 proteins with 50 aa (average)
+height of tree: 1000.00, Speciations: 4
+Gene duplication rate: 0.00, transloc. Dupl.: 0.00
+Gene loss rate: 0.00
+
+
+something interesting is happening here...
+time 0.0000: speciation event of organism 1 to organism 2
+k: 2, nloss: 3
+time 3.1013: gene loss in organism 1 with gene 34
+k: 1, nloss: 3
+time 3.1013: gene loss in organism 1 with gene 33
+k: 0, nloss: 3
+time 3.1013: gene loss in organism 1 with gene 32
+time 12.3062: speciation event of organism 2 to organism 3
+performing gene duplication of 4 genes
+time 12.9445: gene duplication in organism 3 with gene 9, now gene 51
+time 12.9445: gene duplication in organism 3 with gene 10, now gene 52
+time 12.9445: gene duplication in organism 3 with gene 11, now gene 53
+time 12.9445: gene duplication in organism 3 with gene 12, now gene 54
+k: 4, nloss: 5
+time 13.0661: gene loss in organism 3 with gene 52
+k: 3, nloss: 5
+time 13.0661: gene loss in organism 3 with gene 51
+k: 2, nloss: 5
+time 13.0661: gene loss in organism 3 with gene 12
+k: 1, nloss: 5
+time 13.0661: gene loss in organism 3 with gene 11
+k: 0, nloss: 5
+time 13.0661: gene loss in organism 3 with gene 10
+performing gene duplication of 4 genes
+time 13.5226: gene duplication in organism 1 with gene 38, now gene 55
+time 13.5226: gene duplication in organism 1 with gene 39, now gene 56
+time 13.5226: gene duplication in organism 1 with gene 40, now gene 57
+time 13.5226: gene duplication in organism 1 with gene 41, now gene 58
+performing gene duplication of 2 genes
+time 29.8223: gene duplication in organism 3 with gene 15, now gene 59
+time 29.8223: gene duplication in organism 3 with gene 16, now gene 60
+k: 2, nloss: 3
+time 32.6090: gene loss in organism 1 with gene 25
+k: 1, nloss: 3
+time 32.6090: gene loss in organism 1 with gene 24
+k: 0, nloss: 3
+time 32.6090: gene loss in organism 1 with gene 23
+k: 4, nloss: 5
+time 33.8808: gene loss in organism 3 with gene 18
+k: 3, nloss: 5
+time 33.8808: gene loss in organism 3 with gene 17
+k: 2, nloss: 5
+time 33.8808: gene loss in organism 3 with gene 60
+k: 1, nloss: 5
+time 33.8808: gene loss in organism 3 with gene 59
+k: 0, nloss: 5
+time 33.8808: gene loss in organism 3 with gene 16
+performing gene duplication of 4 genes
+time 36.3026: gene duplication in organism 2 with gene 12, now gene 61
+time 36.3026: gene duplication in organism 2 with gene 13, now gene 62
+time 36.3026: gene duplication in organism 2 with gene 14, now gene 63
+time 36.3026: gene duplication in organism 2 with gene 15, now gene 64
+k: 2, nloss: 3
+time 48.1570: gene loss in organism 1 with gene 46
+k: 1, nloss: 3
+time 48.1570: gene loss in organism 1 with gene 45
+k: 0, nloss: 3
+time 48.1570: gene loss in organism 1 with gene 44
+performing gene duplication of 2 genes
+time 56.1740: gene duplication in organism 3 with gene 2, now gene 65
+time 56.1740: gene duplication in organism 3 with gene 3, now gene 66
+performing gene duplication of 3 genes
+time 58.0063: gene duplication in organism 2 with gene 46, now gene 67
+time 58.0063: gene duplication in organism 2 with gene 47, now gene 68
+time 58.0063: gene duplication in organism 2 with gene 48, now gene 69
+k: 4, nloss: 5
+time 58.8803: gene loss in organism 2 with gene 49
+k: 3, nloss: 5
+time 58.8803: gene loss in organism 2 with gene 69
+k: 2, nloss: 5
+time 58.8803: gene loss in organism 2 with gene 68
+k: 1, nloss: 5
+time 58.8803: gene loss in organism 2 with gene 67
+k: 0, nloss: 5
+time 58.8803: gene loss in organism 2 with gene 48
+performing gene duplication of 1 genes
+time 67.9512: gene duplication in organism 1 with gene 55, now gene 70
+performing gene duplication of 1 genes
+time 68.7506: gene duplication in organism 3 with gene 45, now gene 71
+k: 4, nloss: 5
+time 76.9444: gene loss in organism 2 with gene 10
+k: 3, nloss: 5
+time 76.9444: gene loss in organism 2 with gene 9
+k: 2, nloss: 5
+time 76.9444: gene loss in organism 2 with gene 8
+k: 1, nloss: 5
+time 76.9444: gene loss in organism 2 with gene 7
+k: 0, nloss: 5
+time 76.9444: gene loss in organism 2 with gene 6
+performing gene duplication of 4 genes
+time 77.9771: gene duplication in organism 2 with gene 62, now gene 72
+time 77.9771: gene duplication in organism 2 with gene 63, now gene 73
+time 77.9771: gene duplication in organism 2 with gene 64, now gene 74
+time 77.9771: gene duplication in organism 2 with gene 16, now gene 75
+k: 1, nloss: 2
+time 80.8520: gene loss in organism 3 with gene 5
+k: 0, nloss: 2
+time 80.8520: gene loss in organism 3 with gene 4
+performing gene duplication of 5 genes
+time 95.4812: gene duplication in organism 2 with gene 18, now gene 76
+time 95.4812: gene duplication in organism 2 with gene 19, now gene 77
+time 95.4812: gene duplication in organism 2 with gene 20, now gene 78
+time 95.4812: gene duplication in organism 2 with gene 21, now gene 79
+time 95.4812: gene duplication in organism 2 with gene 22, now gene 80
+k: 0, nloss: 1
+time 101.1702: gene loss in organism 3 with gene 24
+performing gene duplication of 1 genes
+time 103.5987: gene duplication in organism 3 with gene 38, now gene 81
+k: 1, nloss: 2
+time 104.7906: gene loss in organism 2 with gene 25
+k: 0, nloss: 2
+time 104.7906: gene loss in organism 2 with gene 24
+performing gene duplication of 3 genes
+time 107.1889: gene duplication in organism 2 with gene 44, now gene 82
+time 107.1889: gene duplication in organism 2 with gene 45, now gene 83
+time 107.1889: gene duplication in organism 2 with gene 46, now gene 84
+performing gene duplication of 2 genes
+time 110.4948: gene duplication in organism 1 with gene 1, now gene 85
+time 110.4948: gene duplication in organism 1 with gene 2, now gene 86
+performing gene duplication of 2 genes
+time 110.7446: gene duplication in organism 3 with gene 42, now gene 87
+time 110.7446: gene duplication in organism 3 with gene 43, now gene 88
+performing gene duplication of 4 genes
+time 111.4556: gene duplication in organism 1 with gene 1, now gene 89
+time 111.4556: gene duplication in organism 1 with gene 2, now gene 90
+time 111.4556: gene duplication in organism 1 with gene 85, now gene 91
+time 111.4556: gene duplication in organism 1 with gene 86, now gene 92
+k: 1, nloss: 2
+time 120.6956: gene loss in organism 2 with gene 76
+k: 0, nloss: 2
+time 120.6956: gene loss in organism 2 with gene 22
+k: 4, nloss: 5
+time 121.5447: gene loss in organism 1 with gene 26
+k: 3, nloss: 5
+time 121.5447: gene loss in organism 1 with gene 22
+k: 2, nloss: 5
+time 121.5447: gene loss in organism 1 with gene 21
+k: 1, nloss: 5
+time 121.5447: gene loss in organism 1 with gene 20
+k: 0, nloss: 5
+time 121.5447: gene loss in organism 1 with gene 19
+performing gene duplication of 1 genes
+time 121.9457: gene duplication in organism 2 with gene 13, now gene 93
+k: 1, nloss: 2
+time 124.1885: gene loss in organism 1 with gene 14
+k: 0, nloss: 2
+time 124.1885: gene loss in organism 1 with gene 13
+performing gene duplication of 4 genes
+time 125.5639: gene duplication in organism 3 with gene 31, now gene 94
+time 125.5639: gene duplication in organism 3 with gene 32, now gene 95
+time 125.5639: gene duplication in organism 3 with gene 33, now gene 96
+time 125.5639: gene duplication in organism 3 with gene 34, now gene 97
+k: 1, nloss: 2
+time 126.3435: gene loss in organism 2 with gene 18
+k: 0, nloss: 2
+time 126.3435: gene loss in organism 2 with gene 17
+performing gene duplication of 3 genes
+time 128.4356: gene duplication in organism 3 with gene 29, now gene 98
+time 128.4356: gene duplication in organism 3 with gene 30, now gene 99
+time 128.4356: gene duplication in organism 3 with gene 31, now gene 100
+k: 2, nloss: 3
+time 129.2345: gene loss in organism 3 with gene 31
+k: 1, nloss: 3
+time 129.2345: gene loss in organism 3 with gene 30
+k: 0, nloss: 3
+time 129.2345: gene loss in organism 3 with gene 29
+performing gene duplication of 4 genes
+time 132.1911: gene duplication in organism 3 with gene 6, now gene 101
+time 132.1911: gene duplication in organism 3 with gene 7, now gene 102
+time 132.1911: gene duplication in organism 3 with gene 8, now gene 103
+time 132.1911: gene duplication in organism 3 with gene 9, now gene 104
+k: 0, nloss: 1
+time 135.9282: gene loss in organism 1 with gene 86
+k: 0, nloss: 1
+time 140.9591: gene loss in organism 2 with gene 38
+k: 2, nloss: 3
+time 141.6769: gene loss in organism 3 with gene 28
+k: 1, nloss: 3
+time 141.6769: gene loss in organism 3 with gene 27
+k: 0, nloss: 3
+time 141.6769: gene loss in organism 3 with gene 26
+performing gene duplication of 3 genes
+time 142.1748: gene duplication in organism 3 with gene 94, now gene 105
+time 142.1748: gene duplication in organism 3 with gene 95, now gene 106
+time 142.1748: gene duplication in organism 3 with gene 96, now gene 107
+performing gene duplication of 1 genes
+time 147.4145: gene duplication in organism 3 with gene 7, now gene 108
+performing gene duplication of 5 genes
+time 147.9800: gene duplication in organism 1 with gene 92, now gene 109
+time 147.9800: gene duplication in organism 1 with gene 3, now gene 110
+time 147.9800: gene duplication in organism 1 with gene 4, now gene 111
+time 147.9800: gene duplication in organism 1 with gene 5, now gene 112
+time 147.9800: gene duplication in organism 1 with gene 6, now gene 113
+performing gene duplication of 3 genes
+time 148.2980: gene duplication in organism 3 with gene 8, now gene 114
+time 148.2980: gene duplication in organism 3 with gene 9, now gene 115
+time 148.2980: gene duplication in organism 3 with gene 101, now gene 116
+k: 2, nloss: 3
+time 150.3422: gene loss in organism 1 with gene 37
+k: 1, nloss: 3
+time 150.3422: gene loss in organism 1 with gene 36
+k: 0, nloss: 3
+time 150.3422: gene loss in organism 1 with gene 35
+performing gene duplication of 2 genes
+time 157.9638: gene duplication in organism 1 with gene 41, now gene 117
+time 157.9638: gene duplication in organism 1 with gene 55, now gene 118
+performing gene duplication of 2 genes
+time 163.5030: gene duplication in organism 1 with gene 1, now gene 119
+time 163.5030: gene duplication in organism 1 with gene 2, now gene 120
+k: 3, nloss: 4
+time 167.8144: gene loss in organism 2 with gene 61
+k: 2, nloss: 4
+time 167.8144: gene loss in organism 2 with gene 15
+k: 1, nloss: 4
+time 167.8144: gene loss in organism 2 with gene 14
+k: 0, nloss: 4
+time 167.8144: gene loss in organism 2 with gene 93
+k: 0, nloss: 1
+time 171.5498: gene loss in organism 3 with gene 20
+k: 3, nloss: 4
+time 172.2379: gene loss in organism 2 with gene 45
+k: 2, nloss: 4
+time 172.2379: gene loss in organism 2 with gene 44
+k: 1, nloss: 4
+time 172.2379: gene loss in organism 2 with gene 43
+k: 0, nloss: 4
+time 172.2379: gene loss in organism 2 with gene 42
+performing gene duplication of 3 genes
+time 182.9918: gene duplication in organism 3 with gene 32, now gene 121
+time 182.9918: gene duplication in organism 3 with gene 33, now gene 122
+time 182.9918: gene duplication in organism 3 with gene 34, now gene 123
+k: 1, nloss: 2
+time 184.0320: gene loss in organism 2 with gene 27
+k: 0, nloss: 2
+time 184.0320: gene loss in organism 2 with gene 26
+performing gene duplication of 5 genes
+time 190.8490: gene duplication in organism 3 with gene 96, now gene 124
+time 190.8490: gene duplication in organism 3 with gene 105, now gene 125
+time 190.8490: gene duplication in organism 3 with gene 106, now gene 126
+time 190.8490: gene duplication in organism 3 with gene 107, now gene 127
+time 190.8490: gene duplication in organism 3 with gene 97, now gene 128
+k: 0, nloss: 1
+time 193.0934: gene loss in organism 3 with gene 37
+performing gene duplication of 2 genes
+time 193.6536: gene duplication in organism 3 with gene 43, now gene 129
+time 193.6536: gene duplication in organism 3 with gene 87, now gene 130
+performing gene duplication of 3 genes
+time 196.1008: gene duplication in organism 3 with gene 48, now gene 131
+time 196.1008: gene duplication in organism 3 with gene 49, now gene 132
+time 196.1008: gene duplication in organism 3 with gene 50, now gene 133
+performing gene duplication of 2 genes
+time 196.8197: gene duplication in organism 1 with gene 16, now gene 134
+time 196.8197: gene duplication in organism 1 with gene 17, now gene 135
+k: 3, nloss: 4
+time 197.8082: gene loss in organism 1 with gene 120
+k: 2, nloss: 4
+time 197.8082: gene loss in organism 1 with gene 119
+k: 1, nloss: 4
+time 197.8082: gene loss in organism 1 with gene 2
+k: 0, nloss: 4
+time 197.8082: gene loss in organism 1 with gene 1
+k: 2, nloss: 3
+time 199.3557: gene loss in organism 3 with gene 127
+k: 1, nloss: 3
+time 199.3557: gene loss in organism 3 with gene 126
+k: 0, nloss: 3
+time 199.3557: gene loss in organism 3 with gene 125
+k: 2, nloss: 3
+time 204.5383: gene loss in organism 2 with gene 31
+k: 1, nloss: 3
+time 204.5383: gene loss in organism 2 with gene 30
+k: 0, nloss: 3
+time 204.5383: gene loss in organism 2 with gene 29
+performing gene duplication of 2 genes
+time 205.4605: gene duplication in organism 3 with gene 53, now gene 136
+time 205.4605: gene duplication in organism 3 with gene 54, now gene 137
+performing gene duplication of 4 genes
+time 211.0712: gene duplication in organism 1 with gene 92, now gene 138
+time 211.0712: gene duplication in organism 1 with gene 3, now gene 139
+time 211.0712: gene duplication in organism 1 with gene 4, now gene 140
+time 211.0712: gene duplication in organism 1 with gene 5, now gene 141
+k: 0, nloss: 1
+time 216.7926: gene loss in organism 2 with gene 74
+k: 1, nloss: 2
+time 224.8615: gene loss in organism 3 with gene 123
+k: 0, nloss: 2
+time 224.8615: gene loss in organism 3 with gene 122
+performing gene duplication of 4 genes
+time 227.2310: gene duplication in organism 1 with gene 110, now gene 142
+time 227.2310: gene duplication in organism 1 with gene 111, now gene 143
+time 227.2310: gene duplication in organism 1 with gene 112, now gene 144
+time 227.2310: gene duplication in organism 1 with gene 113, now gene 145
+performing gene duplication of 5 genes
+time 227.9361: gene duplication in organism 2 with gene 2, now gene 146
+time 227.9361: gene duplication in organism 2 with gene 3, now gene 147
+time 227.9361: gene duplication in organism 2 with gene 4, now gene 148
+time 227.9361: gene duplication in organism 2 with gene 5, now gene 149
+time 227.9361: gene duplication in organism 2 with gene 11, now gene 150
+performing gene duplication of 4 genes
+time 232.9259: gene duplication in organism 2 with gene 19, now gene 151
+time 232.9259: gene duplication in organism 2 with gene 20, now gene 152
+time 232.9259: gene duplication in organism 2 with gene 21, now gene 153
+time 232.9259: gene duplication in organism 2 with gene 77, now gene 154
+k: 3, nloss: 4
+time 234.9267: gene loss in organism 3 with gene 66
+k: 2, nloss: 4
+time 234.9267: gene loss in organism 3 with gene 65
+k: 1, nloss: 4
+time 234.9267: gene loss in organism 3 with gene 3
+k: 0, nloss: 4
+time 234.9267: gene loss in organism 3 with gene 2
+performing gene duplication of 5 genes
+time 243.6470: gene duplication in organism 2 with gene 46, now gene 155
+time 243.6470: gene duplication in organism 2 with gene 82, now gene 156
+time 243.6470: gene duplication in organism 2 with gene 83, now gene 157
+time 243.6470: gene duplication in organism 2 with gene 84, now gene 158
+time 243.6470: gene duplication in organism 2 with gene 47, now gene 159
+performing gene duplication of 4 genes
+time 244.5482: gene duplication in organism 2 with gene 150, now gene 160
+time 244.5482: gene duplication in organism 2 with gene 12, now gene 161
+time 244.5482: gene duplication in organism 2 with gene 13, now gene 162
+time 244.5482: gene duplication in organism 2 with gene 62, now gene 163
+k: 0, nloss: 1
+time 249.1579: gene loss in organism 1 with gene 16
+k: 4, nloss: 5
+time 249.7301: gene loss in organism 2 with gene 39
+k: 3, nloss: 5
+time 249.7301: gene loss in organism 2 with gene 37
+k: 2, nloss: 5
+time 249.7301: gene loss in organism 2 with gene 36
+k: 1, nloss: 5
+time 249.7301: gene loss in organism 2 with gene 35
+k: 0, nloss: 5
+time 249.7301: gene loss in organism 2 with gene 34
+k: 3, nloss: 4
+time 253.3652: gene loss in organism 3 with gene 34
+k: 2, nloss: 4
+time 253.3652: gene loss in organism 3 with gene 33
+k: 1, nloss: 4
+time 253.3652: gene loss in organism 3 with gene 32
+k: 0, nloss: 4
+time 253.3652: gene loss in organism 3 with gene 100
+performing gene duplication of 4 genes
+time 256.7333: gene duplication in organism 3 with gene 47, now gene 164
+time 256.7333: gene duplication in organism 3 with gene 48, now gene 165
+time 256.7333: gene duplication in organism 3 with gene 49, now gene 166
+time 256.7333: gene duplication in organism 3 with gene 50, now gene 167
+performing gene duplication of 4 genes
+time 263.4344: gene duplication in organism 3 with gene 124, now gene 168
+time 263.4344: gene duplication in organism 3 with gene 128, now gene 169
+time 263.4344: gene duplication in organism 3 with gene 35, now gene 170
+time 263.4344: gene duplication in organism 3 with gene 36, now gene 171
+k: 2, nloss: 3
+time 263.9366: gene loss in organism 3 with gene 103
+k: 1, nloss: 3
+time 263.9366: gene loss in organism 3 with gene 102
+k: 0, nloss: 3
+time 263.9366: gene loss in organism 3 with gene 116
+performing gene duplication of 3 genes
+time 265.2658: gene duplication in organism 2 with gene 5, now gene 172
+time 265.2658: gene duplication in organism 2 with gene 11, now gene 173
+time 265.2658: gene duplication in organism 2 with gene 146, now gene 174
+performing gene duplication of 3 genes
+time 270.3368: gene duplication in organism 1 with gene 29, now gene 175
+time 270.3368: gene duplication in organism 1 with gene 30, now gene 176
+time 270.3368: gene duplication in organism 1 with gene 31, now gene 177
+k: 0, nloss: 1
+time 277.7135: gene loss in organism 1 with gene 144
+performing gene duplication of 2 genes
+time 282.7818: gene duplication in organism 3 with gene 114, now gene 178
+time 282.7818: gene duplication in organism 3 with gene 115, now gene 179
+k: 1, nloss: 2
+time 283.8992: gene loss in organism 3 with gene 38
+k: 0, nloss: 2
+time 283.8992: gene loss in organism 3 with gene 171
+k: 1, nloss: 2
+time 286.6432: gene loss in organism 2 with gene 50
+k: 0, nloss: 2
+time 286.6432: gene loss in organism 2 with gene 159
+k: 0, nloss: 1
+time 287.0265: gene loss in organism 3 with gene 94
+performing gene duplication of 3 genes
+time 287.1497: gene duplication in organism 3 with gene 87, now gene 180
+time 287.1497: gene duplication in organism 3 with gene 129, now gene 181
+time 287.1497: gene duplication in organism 3 with gene 130, now gene 182
+performing gene duplication of 3 genes
+time 287.7453: gene duplication in organism 1 with gene 111, now gene 183
+time 287.7453: gene duplication in organism 1 with gene 112, now gene 184
+time 287.7453: gene duplication in organism 1 with gene 113, now gene 185
+k: 0, nloss: 1
+time 290.0790: gene loss in organism 3 with gene 169
+performing gene duplication of 1 genes
+time 293.5442: gene duplication in organism 3 with gene 50, now gene 186
+performing gene duplication of 3 genes
+time 299.8639: gene duplication in organism 2 with gene 46, now gene 187
+time 299.8639: gene duplication in organism 2 with gene 82, now gene 188
+time 299.8639: gene duplication in organism 2 with gene 83, now gene 189
+performing gene duplication of 3 genes
+time 305.1698: gene duplication in organism 1 with gene 140, now gene 190
+time 305.1698: gene duplication in organism 1 with gene 141, now gene 191
+time 305.1698: gene duplication in organism 1 with gene 6, now gene 192
+k: 1, nloss: 2
+time 308.3988: gene loss in organism 3 with gene 115
+k: 0, nloss: 2
+time 308.3988: gene loss in organism 3 with gene 114
+k: 0, nloss: 1
+time 311.7637: gene loss in organism 2 with gene 83
+k: 4, nloss: 5
+time 312.5086: gene loss in organism 3 with gene 13
+k: 3, nloss: 5
+time 312.5086: gene loss in organism 3 with gene 137
+k: 2, nloss: 5
+time 312.5086: gene loss in organism 3 with gene 136
+k: 1, nloss: 5
+time 312.5086: gene loss in organism 3 with gene 54
+k: 0, nloss: 5
+time 312.5086: gene loss in organism 3 with gene 53
+k: 1, nloss: 2
+time 316.5857: gene loss in organism 1 with gene 184
+k: 0, nloss: 2
+time 316.5857: gene loss in organism 1 with gene 183
+k: 2, nloss: 3
+time 325.2915: gene loss in organism 2 with gene 172
+k: 1, nloss: 3
+time 325.2915: gene loss in organism 2 with gene 146
+k: 0, nloss: 3
+time 325.2915: gene loss in organism 2 with gene 11
+k: 1, nloss: 2
+time 326.5477: gene loss in organism 3 with gene 23
+k: 0, nloss: 2
+time 326.5477: gene loss in organism 3 with gene 22
+k: 1, nloss: 2
+time 328.6439: gene loss in organism 3 with gene 50
+k: 0, nloss: 2
+time 328.6439: gene loss in organism 3 with gene 49
+k: 0, nloss: 1
+time 337.9687: gene loss in organism 1 with gene 139
+k: 3, nloss: 4
+time 338.4150: gene loss in organism 3 with gene 46
+k: 2, nloss: 4
+time 338.4150: gene loss in organism 3 with gene 71
+k: 1, nloss: 4
+time 338.4150: gene loss in organism 3 with gene 45
+k: 0, nloss: 4
+time 338.4150: gene loss in organism 3 with gene 44
+k: 4, nloss: 5
+time 355.3153: gene loss in organism 2 with gene 46
+k: 3, nloss: 5
+time 355.3153: gene loss in organism 2 with gene 41
+k: 2, nloss: 5
+time 355.3153: gene loss in organism 2 with gene 40
+k: 1, nloss: 5
+time 355.3153: gene loss in organism 2 with gene 33
+k: 0, nloss: 5
+time 355.3153: gene loss in organism 2 with gene 32
+k: 0, nloss: 1
+time 355.6717: gene loss in organism 3 with gene 106
+performing gene duplication of 5 genes
+time 355.9021: gene duplication in organism 2 with gene 47, now gene 193
+time 355.9021: gene duplication in organism 2 with gene 155, now gene 194
+time 355.9021: gene duplication in organism 2 with gene 156, now gene 195
+time 355.9021: gene duplication in organism 2 with gene 157, now gene 196
+time 355.9021: gene duplication in organism 2 with gene 158, now gene 197
+performing gene duplication of 3 genes
+time 364.1891: gene duplication in organism 1 with gene 58, now gene 198
+time 364.1891: gene duplication in organism 1 with gene 42, now gene 199
+time 364.1891: gene duplication in organism 1 with gene 43, now gene 200
+k: 0, nloss: 1
+time 364.9925: gene loss in organism 2 with gene 78
+performing gene duplication of 4 genes
+time 370.9142: gene duplication in organism 3 with gene 124, now gene 201
+time 370.9142: gene duplication in organism 3 with gene 128, now gene 202
+time 370.9142: gene duplication in organism 3 with gene 35, now gene 203
+time 370.9142: gene duplication in organism 3 with gene 36, now gene 204
+k: 4, nloss: 5
+time 371.2062: gene loss in organism 3 with gene 131
+k: 3, nloss: 5
+time 371.2062: gene loss in organism 3 with gene 167
+k: 2, nloss: 5
+time 371.2062: gene loss in organism 3 with gene 166
+k: 1, nloss: 5
+time 371.2062: gene loss in organism 3 with gene 165
+k: 0, nloss: 5
+time 371.2062: gene loss in organism 3 with gene 164
+k: 0, nloss: 1
+time 371.5466: gene loss in organism 1 with gene 109
+performing gene duplication of 4 genes
+time 375.8317: gene duplication in organism 2 with gene 82, now gene 205
+time 375.8317: gene duplication in organism 2 with gene 187, now gene 206
+time 375.8317: gene duplication in organism 2 with gene 188, now gene 207
+time 375.8317: gene duplication in organism 2 with gene 189, now gene 208
+performing gene duplication of 3 genes
+time 376.8060: gene duplication in organism 2 with gene 82, now gene 209
+time 376.8060: gene duplication in organism 2 with gene 187, now gene 210
+time 376.8060: gene duplication in organism 2 with gene 188, now gene 211
+k: 4, nloss: 5
+time 384.4109: gene loss in organism 1 with gene 117
+k: 3, nloss: 5
+time 384.4109: gene loss in organism 1 with gene 55
+k: 2, nloss: 5
+time 384.4109: gene loss in organism 1 with gene 41
+k: 1, nloss: 5
+time 384.4109: gene loss in organism 1 with gene 40
+k: 0, nloss: 5
+time 384.4109: gene loss in organism 1 with gene 39
+k: 3, nloss: 4
+time 385.7147: gene loss in organism 3 with gene 104
+k: 2, nloss: 4
+time 385.7147: gene loss in organism 3 with gene 179
+k: 1, nloss: 4
+time 385.7147: gene loss in organism 3 with gene 178
+k: 0, nloss: 4
+time 385.7147: gene loss in organism 3 with gene 101
+performing gene duplication of 5 genes
+time 386.7385: gene duplication in organism 1 with gene 92, now gene 212
+time 386.7385: gene duplication in organism 1 with gene 3, now gene 213
+time 386.7385: gene duplication in organism 1 with gene 4, now gene 214
+time 386.7385: gene duplication in organism 1 with gene 5, now gene 215
+time 386.7385: gene duplication in organism 1 with gene 138, now gene 216
+k: 3, nloss: 4
+time 392.3852: gene loss in organism 2 with gene 20
+k: 2, nloss: 4
+time 392.3852: gene loss in organism 2 with gene 19
+k: 1, nloss: 4
+time 392.3852: gene loss in organism 2 with gene 75
+k: 0, nloss: 4
+time 392.3852: gene loss in organism 2 with gene 73
+k: 4, nloss: 5
+time 393.4904: gene loss in organism 2 with gene 153
+k: 3, nloss: 5
+time 393.4904: gene loss in organism 2 with gene 152
+k: 2, nloss: 5
+time 393.4904: gene loss in organism 2 with gene 151
+k: 1, nloss: 5
+time 393.4904: gene loss in organism 2 with gene 77
+k: 0, nloss: 5
+time 393.4904: gene loss in organism 2 with gene 21
+performing gene duplication of 4 genes
+time 395.3793: gene duplication in organism 2 with gene 187, now gene 217
+time 395.3793: gene duplication in organism 2 with gene 188, now gene 218
+time 395.3793: gene duplication in organism 2 with gene 209, now gene 219
+time 395.3793: gene duplication in organism 2 with gene 210, now gene 220
+performing gene duplication of 5 genes
+time 396.7065: gene duplication in organism 3 with gene 6, now gene 221
+time 396.7065: gene duplication in organism 3 with gene 7, now gene 222
+time 396.7065: gene duplication in organism 3 with gene 108, now gene 223
+time 396.7065: gene duplication in organism 3 with gene 8, now gene 224
+time 396.7065: gene duplication in organism 3 with gene 9, now gene 225
+performing gene duplication of 2 genes
+time 398.4056: gene duplication in organism 2 with gene 1, now gene 226
+time 398.4056: gene duplication in organism 2 with gene 2, now gene 227
+k: 4, nloss: 5
+time 401.6895: gene loss in organism 2 with gene 187
+k: 3, nloss: 5
+time 401.6895: gene loss in organism 2 with gene 82
+k: 2, nloss: 5
+time 401.6895: gene loss in organism 2 with gene 28
+k: 1, nloss: 5
+time 401.6895: gene loss in organism 2 with gene 23
+k: 0, nloss: 5
+time 401.6895: gene loss in organism 2 with gene 80
+k: 3, nloss: 4
+time 402.3137: gene loss in organism 1 with gene 3
+k: 2, nloss: 4
+time 402.3137: gene loss in organism 1 with gene 92
+k: 1, nloss: 4
+time 402.3137: gene loss in organism 1 with gene 91
+k: 0, nloss: 4
+time 402.3137: gene loss in organism 1 with gene 90
+k: 3, nloss: 4
+time 406.0694: gene loss in organism 2 with gene 196
+k: 2, nloss: 4
+time 406.0694: gene loss in organism 2 with gene 195
+k: 1, nloss: 4
+time 406.0694: gene loss in organism 2 with gene 194
+k: 0, nloss: 4
+time 406.0694: gene loss in organism 2 with gene 193
+k: 4, nloss: 5
+time 411.9108: gene loss in organism 3 with gene 25
+k: 3, nloss: 5
+time 411.9108: gene loss in organism 3 with gene 21
+k: 2, nloss: 5
+time 411.9108: gene loss in organism 3 with gene 19
+k: 1, nloss: 5
+time 411.9108: gene loss in organism 3 with gene 15
+k: 0, nloss: 5
+time 411.9108: gene loss in organism 3 with gene 14
+performing gene duplication of 3 genes
+time 413.7142: gene duplication in organism 1 with gene 31, now gene 228
+time 413.7142: gene duplication in organism 1 with gene 175, now gene 229
+time 413.7142: gene duplication in organism 1 with gene 176, now gene 230
+k: 1, nloss: 2
+time 415.4545: gene loss in organism 3 with gene 6
+k: 0, nloss: 2
+time 415.4545: gene loss in organism 3 with gene 1
+k: 4, nloss: 5
+time 415.5977: gene loss in organism 2 with gene 207
+k: 3, nloss: 5
+time 415.5977: gene loss in organism 2 with gene 206
+k: 2, nloss: 5
+time 415.5977: gene loss in organism 2 with gene 205
+k: 1, nloss: 5
+time 415.5977: gene loss in organism 2 with gene 189
+k: 0, nloss: 5
+time 415.5977: gene loss in organism 2 with gene 211
+performing gene duplication of 2 genes
+time 416.6152: gene duplication in organism 1 with gene 27, now gene 231
+time 416.6152: gene duplication in organism 1 with gene 28, now gene 232
+performing gene duplication of 1 genes
+time 422.5378: gene duplication in organism 2 with gene 197, now gene 233
+performing gene duplication of 5 genes
+time 422.8012: gene duplication in organism 1 with gene 111, now gene 234
+time 422.8012: gene duplication in organism 1 with gene 112, now gene 235
+time 422.8012: gene duplication in organism 1 with gene 113, now gene 236
+time 422.8012: gene duplication in organism 1 with gene 185, now gene 237
+time 422.8012: gene duplication in organism 1 with gene 142, now gene 238
+performing gene duplication of 1 genes
+time 423.7877: gene duplication in organism 1 with gene 199, now gene 239
+k: 4, nloss: 5
+time 424.8280: gene loss in organism 3 with gene 107
+k: 3, nloss: 5
+time 424.8280: gene loss in organism 3 with gene 105
+k: 2, nloss: 5
+time 424.8280: gene loss in organism 3 with gene 96
+k: 1, nloss: 5
+time 424.8280: gene loss in organism 3 with gene 95
+k: 0, nloss: 5
+time 424.8280: gene loss in organism 3 with gene 121
+performing gene duplication of 1 genes
+time 429.3303: gene duplication in organism 2 with gene 173, now gene 240
+k: 0, nloss: 1
+time 430.2600: gene loss in organism 2 with gene 149
+performing gene duplication of 4 genes
+time 431.2249: gene duplication in organism 1 with gene 9, now gene 241
+time 431.2249: gene duplication in organism 1 with gene 10, now gene 242
+time 431.2249: gene duplication in organism 1 with gene 11, now gene 243
+time 431.2249: gene duplication in organism 1 with gene 12, now gene 244
+k: 0, nloss: 1
+time 435.1199: gene loss in organism 2 with gene 226
+k: 3, nloss: 4
+time 439.0291: gene loss in organism 1 with gene 175
+k: 2, nloss: 4
+time 439.0291: gene loss in organism 1 with gene 31
+k: 1, nloss: 4
+time 439.0291: gene loss in organism 1 with gene 30
+k: 0, nloss: 4
+time 439.0291: gene loss in organism 1 with gene 29
+performing gene duplication of 1 genes
+time 439.1141: gene duplication in organism 3 with gene 35, now gene 245
+k: 4, nloss: 5
+time 441.5112: gene loss in organism 2 with gene 154
+k: 3, nloss: 5
+time 441.5112: gene loss in organism 2 with gene 72
+k: 2, nloss: 5
+time 441.5112: gene loss in organism 2 with gene 16
+k: 1, nloss: 5
+time 441.5112: gene loss in organism 2 with gene 64
+k: 0, nloss: 5
+time 441.5112: gene loss in organism 2 with gene 63
+k: 0, nloss: 1
+time 448.5855: gene loss in organism 3 with gene 170
+performing gene duplication of 1 genes
+time 458.6369: gene duplication in organism 3 with gene 128, now gene 246
+k: 4, nloss: 5
+time 461.1238: gene loss in organism 1 with gene 118
+k: 3, nloss: 5
+time 461.1238: gene loss in organism 1 with gene 38
+k: 2, nloss: 5
+time 461.1238: gene loss in organism 1 with gene 177
+k: 1, nloss: 5
+time 461.1238: gene loss in organism 1 with gene 230
+k: 0, nloss: 5
+time 461.1238: gene loss in organism 1 with gene 229
+performing gene duplication of 5 genes
+time 466.1646: gene duplication in organism 3 with gene 99, now gene 247
+time 466.1646: gene duplication in organism 3 with gene 97, now gene 248
+time 466.1646: gene duplication in organism 3 with gene 124, now gene 249
+time 466.1646: gene duplication in organism 3 with gene 128, now gene 250
+time 466.1646: gene duplication in organism 3 with gene 246, now gene 251
+k: 1, nloss: 2
+time 481.4309: gene loss in organism 2 with gene 155
+k: 0, nloss: 2
+time 481.4309: gene loss in organism 2 with gene 47
+k: 4, nloss: 5
+time 487.1169: gene loss in organism 2 with gene 162
+k: 3, nloss: 5
+time 487.1169: gene loss in organism 2 with gene 161
+k: 2, nloss: 5
+time 487.1169: gene loss in organism 2 with gene 160
+k: 1, nloss: 5
+time 487.1169: gene loss in organism 2 with gene 62
+k: 0, nloss: 5
+time 487.1169: gene loss in organism 2 with gene 13
+k: 4, nloss: 5
+time 488.0794: gene loss in organism 2 with gene 233
+k: 3, nloss: 5
+time 488.0794: gene loss in organism 2 with gene 197
+k: 2, nloss: 5
+time 488.0794: gene loss in organism 2 with gene 158
+k: 1, nloss: 5
+time 488.0794: gene loss in organism 2 with gene 157
+k: 0, nloss: 5
+time 488.0794: gene loss in organism 2 with gene 156
+k: 3, nloss: 4
+time 492.9481: gene loss in organism 1 with gene 190
+k: 2, nloss: 4
+time 492.9481: gene loss in organism 1 with gene 6
+k: 1, nloss: 4
+time 492.9481: gene loss in organism 1 with gene 141
+k: 0, nloss: 4
+time 492.9481: gene loss in organism 1 with gene 140
+k: 4, nloss: 5
+time 494.3426: gene loss in organism 3 with gene 39
+k: 3, nloss: 5
+time 494.3426: gene loss in organism 3 with gene 81
+k: 2, nloss: 5
+time 494.3426: gene loss in organism 3 with gene 168
+k: 1, nloss: 5
+time 494.3426: gene loss in organism 3 with gene 204
+k: 0, nloss: 5
+time 494.3426: gene loss in organism 3 with gene 203
+performing gene duplication of 3 genes
+time 501.0075: gene duplication in organism 2 with gene 210, now gene 252
+time 501.0075: gene duplication in organism 2 with gene 217, now gene 253
+time 501.0075: gene duplication in organism 2 with gene 218, now gene 254
+k: 0, nloss: 1
+time 505.5896: gene loss in organism 3 with gene 99
+k: 0, nloss: 1
+time 513.7793: gene loss in organism 3 with gene 221
+performing gene duplication of 5 genes
+time 527.7993: gene duplication in organism 3 with gene 42, now gene 255
+time 527.7993: gene duplication in organism 3 with gene 43, now gene 256
+time 527.7993: gene duplication in organism 3 with gene 87, now gene 257
+time 527.7993: gene duplication in organism 3 with gene 129, now gene 258
+time 527.7993: gene duplication in organism 3 with gene 130, now gene 259
+performing gene duplication of 3 genes
+time 530.6157: gene duplication in organism 1 with gene 58, now gene 260
+time 530.6157: gene duplication in organism 1 with gene 42, now gene 261
+time 530.6157: gene duplication in organism 1 with gene 43, now gene 262
+performing gene duplication of 2 genes
+time 532.0311: gene duplication in organism 3 with gene 48, now gene 263
+time 532.0311: gene duplication in organism 3 with gene 186, now gene 264
+k: 4, nloss: 5
+time 537.3503: gene loss in organism 3 with gene 264
+k: 3, nloss: 5
+time 537.3503: gene loss in organism 3 with gene 263
+k: 2, nloss: 5
+time 537.3503: gene loss in organism 3 with gene 186
+k: 1, nloss: 5
+time 537.3503: gene loss in organism 3 with gene 48
+k: 0, nloss: 5
+time 537.3503: gene loss in organism 3 with gene 47
+k: 1, nloss: 2
+time 540.2012: gene loss in organism 1 with gene 48
+k: 0, nloss: 2
+time 540.2012: gene loss in organism 1 with gene 47
+performing gene duplication of 2 genes
+time 551.1733: gene duplication in organism 1 with gene 17, now gene 265
+time 551.1733: gene duplication in organism 1 with gene 134, now gene 266
+performing gene duplication of 5 genes
+time 551.9051: gene duplication in organism 3 with gene 247, now gene 267
+time 551.9051: gene duplication in organism 3 with gene 248, now gene 268
+time 551.9051: gene duplication in organism 3 with gene 249, now gene 269
+time 551.9051: gene duplication in organism 3 with gene 250, now gene 270
+time 551.9051: gene duplication in organism 3 with gene 251, now gene 271
+performing gene duplication of 2 genes
+time 556.0514: gene duplication in organism 3 with gene 258, now gene 272
+time 556.0514: gene duplication in organism 3 with gene 259, now gene 273
+performing gene duplication of 1 genes
+time 559.6832: gene duplication in organism 1 with gene 235, now gene 274
+performing gene duplication of 5 genes
+time 565.0716: gene duplication in organism 1 with gene 212, now gene 275
+time 565.0716: gene duplication in organism 1 with gene 213, now gene 276
+time 565.0716: gene duplication in organism 1 with gene 214, now gene 277
+time 565.0716: gene duplication in organism 1 with gene 215, now gene 278
+time 565.0716: gene duplication in organism 1 with gene 216, now gene 279
+performing gene duplication of 5 genes
+time 571.0003: gene duplication in organism 1 with gene 236, now gene 280
+time 571.0003: gene duplication in organism 1 with gene 237, now gene 281
+time 571.0003: gene duplication in organism 1 with gene 238, now gene 282
+time 571.0003: gene duplication in organism 1 with gene 143, now gene 283
+time 571.0003: gene duplication in organism 1 with gene 145, now gene 284
+performing gene duplication of 5 genes
+time 572.6712: gene duplication in organism 1 with gene 280, now gene 285
+time 572.6712: gene duplication in organism 1 with gene 281, now gene 286
+time 572.6712: gene duplication in organism 1 with gene 282, now gene 287
+time 572.6712: gene duplication in organism 1 with gene 283, now gene 288
+time 572.6712: gene duplication in organism 1 with gene 284, now gene 289
+performing gene duplication of 3 genes
+time 579.3971: gene duplication in organism 1 with gene 238, now gene 290
+time 579.3971: gene duplication in organism 1 with gene 143, now gene 291
+time 579.3971: gene duplication in organism 1 with gene 145, now gene 292
+k: 4, nloss: 5
+time 581.7768: gene loss in organism 3 with gene 88
+k: 3, nloss: 5
+time 581.7768: gene loss in organism 3 with gene 182
+k: 2, nloss: 5
+time 581.7768: gene loss in organism 3 with gene 181
+k: 1, nloss: 5
+time 581.7768: gene loss in organism 3 with gene 180
+k: 0, nloss: 5
+time 581.7768: gene loss in organism 3 with gene 273
+k: 1, nloss: 2
+time 583.4023: gene loss in organism 2 with gene 163
+k: 0, nloss: 2
+time 583.4023: gene loss in organism 2 with gene 12
+k: 0, nloss: 1
+time 585.7951: gene loss in organism 2 with gene 252
+time 587.4267: speciation event of organism 3 to organism 4
+k: 2, nloss: 3
+time 588.7185: gene loss in organism 1 with gene 278
+k: 1, nloss: 3
+time 588.7185: gene loss in organism 1 with gene 277
+k: 0, nloss: 3
+time 588.7185: gene loss in organism 1 with gene 276
+k: 3, nloss: 4
+time 603.8186: gene loss in organism 1 with gene 198
+k: 2, nloss: 4
+time 603.8186: gene loss in organism 1 with gene 262
+k: 1, nloss: 4
+time 603.8186: gene loss in organism 1 with gene 261
+k: 0, nloss: 4
+time 603.8186: gene loss in organism 1 with gene 260
+performing gene duplication of 2 genes
+time 605.1649: gene duplication in organism 1 with gene 283, now gene 293
+time 605.1649: gene duplication in organism 1 with gene 284, now gene 294
+k: 2, nloss: 3
+time 608.3572: gene loss in organism 2 with gene 240
+k: 1, nloss: 3
+time 608.3572: gene loss in organism 2 with gene 173
+k: 0, nloss: 3
+time 608.3572: gene loss in organism 2 with gene 5
+k: 4, nloss: 5
+time 611.6431: gene loss in organism 1 with gene 15
+k: 3, nloss: 5
+time 611.6431: gene loss in organism 1 with gene 244
+k: 2, nloss: 5
+time 611.6431: gene loss in organism 1 with gene 243
+k: 1, nloss: 5
+time 611.6431: gene loss in organism 1 with gene 242
+k: 0, nloss: 5
+time 611.6431: gene loss in organism 1 with gene 241
+performing gene duplication of 4 genes
+time 612.2879: gene duplication in organism 3 with gene 87, now gene 295
+time 612.2879: gene duplication in organism 3 with gene 129, now gene 296
+time 612.2879: gene duplication in organism 3 with gene 130, now gene 297
+time 612.2879: gene duplication in organism 3 with gene 255, now gene 298
+performing gene duplication of 3 genes
+time 613.1622: gene duplication in organism 4 with gene 40, now gene 299
+time 613.1622: gene duplication in organism 4 with gene 41, now gene 300
+time 613.1622: gene duplication in organism 4 with gene 42, now gene 301
+performing gene duplication of 5 genes
+time 616.0454: gene duplication in organism 3 with gene 296, now gene 302
+time 616.0454: gene duplication in organism 3 with gene 297, now gene 303
+time 616.0454: gene duplication in organism 3 with gene 298, now gene 304
+time 616.0454: gene duplication in organism 3 with gene 256, now gene 305
+time 616.0454: gene duplication in organism 3 with gene 257, now gene 306
+performing gene duplication of 4 genes
+time 616.4964: gene duplication in organism 1 with gene 282, now gene 307
+time 616.4964: gene duplication in organism 1 with gene 283, now gene 308
+time 616.4964: gene duplication in organism 1 with gene 284, now gene 309
+time 616.4964: gene duplication in organism 1 with gene 293, now gene 310
+k: 0, nloss: 1
+time 617.0395: gene loss in organism 3 with gene 304
+performing gene duplication of 2 genes
+time 619.3557: gene duplication in organism 1 with gene 282, now gene 311
+time 619.3557: gene duplication in organism 1 with gene 283, now gene 312
+performing gene duplication of 1 genes
+time 620.0186: gene duplication in organism 3 with gene 36, now gene 313
+k: 0, nloss: 1
+time 621.5137: gene loss in organism 4 with gene 9
+k: 0, nloss: 1
+time 623.0341: gene loss in organism 1 with gene 112
+k: 1, nloss: 2
+time 624.9057: gene loss in organism 1 with gene 145
+k: 0, nloss: 2
+time 624.9057: gene loss in organism 1 with gene 143
+performing gene duplication of 1 genes
+time 626.1272: gene duplication in organism 1 with gene 294, now gene 314
+k: 3, nloss: 4
+time 627.8888: gene loss in organism 1 with gene 142
+k: 2, nloss: 4
+time 627.8888: gene loss in organism 1 with gene 185
+k: 1, nloss: 4
+time 627.8888: gene loss in organism 1 with gene 113
+k: 0, nloss: 4
+time 627.8888: gene loss in organism 1 with gene 111
+k: 1, nloss: 2
+time 631.9261: gene loss in organism 2 with gene 3
+k: 0, nloss: 2
+time 631.9261: gene loss in organism 2 with gene 227
+k: 2, nloss: 3
+time 633.2369: gene loss in organism 1 with gene 311
+k: 1, nloss: 3
+time 633.2369: gene loss in organism 1 with gene 283
+k: 0, nloss: 3
+time 633.2369: gene loss in organism 1 with gene 282
+k: 4, nloss: 5
+time 644.4391: gene loss in organism 1 with gene 237
+k: 3, nloss: 5
+time 644.4391: gene loss in organism 1 with gene 236
+k: 2, nloss: 5
+time 644.4391: gene loss in organism 1 with gene 274
+k: 1, nloss: 5
+time 644.4391: gene loss in organism 1 with gene 235
+k: 0, nloss: 5
+time 644.4391: gene loss in organism 1 with gene 234
+performing gene duplication of 2 genes
+time 644.8684: gene duplication in organism 4 with gene 245, now gene 315
+time 644.8684: gene duplication in organism 4 with gene 36, now gene 316
+performing gene duplication of 1 genes
+time 647.1796: gene duplication in organism 4 with gene 301, now gene 317
+k: 1, nloss: 2
+time 647.4704: gene loss in organism 4 with gene 8
+k: 0, nloss: 2
+time 647.4704: gene loss in organism 4 with gene 108
+k: 3, nloss: 4
+time 647.6621: gene loss in organism 1 with gene 213
+k: 2, nloss: 4
+time 647.6621: gene loss in organism 1 with gene 212
+k: 1, nloss: 4
+time 647.6621: gene loss in organism 1 with gene 138
+k: 0, nloss: 4
+time 647.6621: gene loss in organism 1 with gene 5
+performing gene duplication of 1 genes
+time 653.8076: gene duplication in organism 1 with gene 8, now gene 318
+performing gene duplication of 5 genes
+time 655.5356: gene duplication in organism 3 with gene 251, now gene 319
+time 655.5356: gene duplication in organism 3 with gene 267, now gene 320
+time 655.5356: gene duplication in organism 3 with gene 268, now gene 321
+time 655.5356: gene duplication in organism 3 with gene 269, now gene 322
+time 655.5356: gene duplication in organism 3 with gene 270, now gene 323
+performing gene duplication of 3 genes
+time 656.6700: gene duplication in organism 4 with gene 255, now gene 324
+time 656.6700: gene duplication in organism 4 with gene 256, now gene 325
+time 656.6700: gene duplication in organism 4 with gene 257, now gene 326
+performing gene duplication of 3 genes
+time 661.7985: gene duplication in organism 3 with gene 42, now gene 327
+time 661.7985: gene duplication in organism 3 with gene 43, now gene 328
+time 661.7985: gene duplication in organism 3 with gene 87, now gene 329
+performing gene duplication of 2 genes
+time 666.9769: gene duplication in organism 4 with gene 301, now gene 330
+time 666.9769: gene duplication in organism 4 with gene 317, now gene 331
+performing gene duplication of 1 genes
+time 676.9419: gene duplication in organism 4 with gene 42, now gene 332
+k: 4, nloss: 5
+time 677.3663: gene loss in organism 1 with gene 308
+k: 3, nloss: 5
+time 677.3663: gene loss in organism 1 with gene 307
+k: 2, nloss: 5
+time 677.3663: gene loss in organism 1 with gene 293
+k: 1, nloss: 5
+time 677.3663: gene loss in organism 1 with gene 284
+k: 0, nloss: 5
+time 677.3663: gene loss in organism 1 with gene 312
+performing gene duplication of 4 genes
+time 680.9312: gene duplication in organism 4 with gene 87, now gene 333
+time 680.9312: gene duplication in organism 4 with gene 129, now gene 334
+time 680.9312: gene duplication in organism 4 with gene 130, now gene 335
+time 680.9312: gene duplication in organism 4 with gene 255, now gene 336
+performing gene duplication of 2 genes
+time 688.4586: gene duplication in organism 4 with gene 7, now gene 337
+time 688.4586: gene duplication in organism 4 with gene 222, now gene 338
+performing gene duplication of 4 genes
+time 692.8575: gene duplication in organism 4 with gene 129, now gene 339
+time 692.8575: gene duplication in organism 4 with gene 130, now gene 340
+time 692.8575: gene duplication in organism 4 with gene 255, now gene 341
+time 692.8575: gene duplication in organism 4 with gene 333, now gene 342
+k: 1, nloss: 2
+time 693.1402: gene loss in organism 4 with gene 130
+k: 0, nloss: 2
+time 693.1402: gene loss in organism 4 with gene 129
+k: 1, nloss: 2
+time 695.0077: gene loss in organism 4 with gene 42
+k: 0, nloss: 2
+time 695.0077: gene loss in organism 4 with gene 41
+performing gene duplication of 4 genes
+time 697.9814: gene duplication in organism 4 with gene 7, now gene 343
+time 697.9814: gene duplication in organism 4 with gene 222, now gene 344
+time 697.9814: gene duplication in organism 4 with gene 337, now gene 345
+time 697.9814: gene duplication in organism 4 with gene 338, now gene 346
+performing gene duplication of 4 genes
+time 703.5878: gene duplication in organism 4 with gene 300, now gene 347
+time 703.5878: gene duplication in organism 4 with gene 301, now gene 348
+time 703.5878: gene duplication in organism 4 with gene 317, now gene 349
+time 703.5878: gene duplication in organism 4 with gene 330, now gene 350
+k: 0, nloss: 1
+time 705.5547: gene loss in organism 2 with gene 210
+k: 2, nloss: 3
+time 707.1532: gene loss in organism 3 with gene 298
+k: 1, nloss: 3
+time 707.1532: gene loss in organism 3 with gene 297
+k: 0, nloss: 3
+time 707.1532: gene loss in organism 3 with gene 296
+performing gene duplication of 1 genes
+time 713.2671: gene duplication in organism 1 with gene 232, now gene 351
+performing gene duplication of 1 genes
+time 721.3321: gene duplication in organism 3 with gene 270, now gene 352
+k: 3, nloss: 4
+time 723.5026: gene loss in organism 4 with gene 133
+k: 2, nloss: 4
+time 723.5026: gene loss in organism 4 with gene 132
+k: 1, nloss: 4
+time 723.5026: gene loss in organism 4 with gene 272
+k: 0, nloss: 4
+time 723.5026: gene loss in organism 4 with gene 259
+performing gene duplication of 2 genes
+time 731.4163: gene duplication in organism 1 with gene 192, now gene 353
+time 731.4163: gene duplication in organism 1 with gene 110, now gene 354
+k: 2, nloss: 3
+time 735.1127: gene loss in organism 4 with gene 299
+k: 1, nloss: 3
+time 735.1127: gene loss in organism 4 with gene 332
+k: 0, nloss: 3
+time 735.1127: gene loss in organism 4 with gene 40
+k: 0, nloss: 1
+time 736.3950: gene loss in organism 1 with gene 280
+performing gene duplication of 3 genes
+time 739.5546: gene duplication in organism 1 with gene 287, now gene 355
+time 739.5546: gene duplication in organism 1 with gene 288, now gene 356
+time 739.5546: gene duplication in organism 1 with gene 289, now gene 357
+k: 4, nloss: 5
+time 742.9144: gene loss in organism 3 with gene 223
+k: 3, nloss: 5
+time 742.9144: gene loss in organism 3 with gene 222
+k: 2, nloss: 5
+time 742.9144: gene loss in organism 3 with gene 9
+k: 1, nloss: 5
+time 742.9144: gene loss in organism 3 with gene 8
+k: 0, nloss: 5
+time 742.9144: gene loss in organism 3 with gene 108
+performing gene duplication of 5 genes
+time 742.9437: gene duplication in organism 3 with gene 36, now gene 358
+time 742.9437: gene duplication in organism 3 with gene 313, now gene 359
+time 742.9437: gene duplication in organism 3 with gene 201, now gene 360
+time 742.9437: gene duplication in organism 3 with gene 202, now gene 361
+time 742.9437: gene duplication in organism 3 with gene 40, now gene 362
+k: 1, nloss: 2
+time 743.0539: gene loss in organism 1 with gene 351
+k: 0, nloss: 2
+time 743.0539: gene loss in organism 1 with gene 232
+performing gene duplication of 4 genes
+time 747.4028: gene duplication in organism 1 with gene 85, now gene 363
+time 747.4028: gene duplication in organism 1 with gene 89, now gene 364
+time 747.4028: gene duplication in organism 1 with gene 4, now gene 365
+time 747.4028: gene duplication in organism 1 with gene 214, now gene 366
+performing gene duplication of 4 genes
+time 763.0423: gene duplication in organism 2 with gene 147, now gene 367
+time 763.0423: gene duplication in organism 2 with gene 148, now gene 368
+time 763.0423: gene duplication in organism 2 with gene 150, now gene 369
+time 763.0423: gene duplication in organism 2 with gene 79, now gene 370
+k: 2, nloss: 3
+time 766.2694: gene loss in organism 4 with gene 202
+k: 1, nloss: 3
+time 766.2694: gene loss in organism 4 with gene 201
+k: 0, nloss: 3
+time 766.2694: gene loss in organism 4 with gene 316
+k: 4, nloss: 5
+time 766.8350: gene loss in organism 3 with gene 268
+k: 3, nloss: 5
+time 766.8350: gene loss in organism 3 with gene 267
+k: 2, nloss: 5
+time 766.8350: gene loss in organism 3 with gene 251
+k: 1, nloss: 5
+time 766.8350: gene loss in organism 3 with gene 250
+k: 0, nloss: 5
+time 766.8350: gene loss in organism 3 with gene 249
+performing gene duplication of 2 genes
+time 767.2784: gene duplication in organism 3 with gene 329, now gene 371
+time 767.2784: gene duplication in organism 3 with gene 129, now gene 372
+k: 1, nloss: 2
+time 767.8724: gene loss in organism 4 with gene 342
+k: 0, nloss: 2
+time 767.8724: gene loss in organism 4 with gene 341
+k: 2, nloss: 3
+time 771.7786: gene loss in organism 2 with gene 253
+k: 1, nloss: 3
+time 771.7786: gene loss in organism 2 with gene 218
+k: 0, nloss: 3
+time 771.7786: gene loss in organism 2 with gene 217
+k: 0, nloss: 1
+time 771.8187: gene loss in organism 4 with gene 301
+k: 0, nloss: 1
+time 780.7209: gene loss in organism 4 with gene 87
+performing gene duplication of 3 genes
+time 785.2277: gene duplication in organism 4 with gene 338, now gene 373
+time 785.2277: gene duplication in organism 4 with gene 343, now gene 374
+time 785.2277: gene duplication in organism 4 with gene 344, now gene 375
+k: 3, nloss: 4
+time 788.2370: gene loss in organism 3 with gene 362
+k: 2, nloss: 4
+time 788.2370: gene loss in organism 3 with gene 361
+k: 1, nloss: 4
+time 788.2370: gene loss in organism 3 with gene 360
+k: 0, nloss: 4
+time 788.2370: gene loss in organism 3 with gene 359
+k: 4, nloss: 5
+time 789.6549: gene loss in organism 3 with gene 271
+k: 3, nloss: 5
+time 789.6549: gene loss in organism 3 with gene 323
+k: 2, nloss: 5
+time 789.6549: gene loss in organism 3 with gene 322
+k: 1, nloss: 5
+time 789.6549: gene loss in organism 3 with gene 321
+k: 0, nloss: 5
+time 789.6549: gene loss in organism 3 with gene 320
+k: 4, nloss: 5
+time 790.4623: gene loss in organism 1 with gene 310
+k: 3, nloss: 5
+time 790.4623: gene loss in organism 1 with gene 309
+k: 2, nloss: 5
+time 790.4623: gene loss in organism 1 with gene 281
+k: 1, nloss: 5
+time 790.4623: gene loss in organism 1 with gene 292
+k: 0, nloss: 5
+time 790.4623: gene loss in organism 1 with gene 291
+k: 1, nloss: 2
+time 793.8435: gene loss in organism 3 with gene 257
+k: 0, nloss: 2
+time 793.8435: gene loss in organism 3 with gene 256
+performing gene duplication of 2 genes
+time 795.4134: gene duplication in organism 1 with gene 365, now gene 376
+time 795.4134: gene duplication in organism 1 with gene 366, now gene 377
+k: 4, nloss: 5
+time 797.1749: gene loss in organism 4 with gene 97
+k: 3, nloss: 5
+time 797.1749: gene loss in organism 4 with gene 98
+k: 2, nloss: 5
+time 797.1749: gene loss in organism 4 with gene 225
+k: 1, nloss: 5
+time 797.1749: gene loss in organism 4 with gene 224
+k: 0, nloss: 5
+time 797.1749: gene loss in organism 4 with gene 223
+k: 3, nloss: 4
+time 799.2435: gene loss in organism 3 with gene 132
+k: 2, nloss: 4
+time 799.2435: gene loss in organism 3 with gene 272
+k: 1, nloss: 4
+time 799.2435: gene loss in organism 3 with gene 259
+k: 0, nloss: 4
+time 799.2435: gene loss in organism 3 with gene 258
+k: 3, nloss: 4
+time 800.3378: gene loss in organism 1 with gene 58
+k: 2, nloss: 4
+time 800.3378: gene loss in organism 1 with gene 57
+k: 1, nloss: 4
+time 800.3378: gene loss in organism 1 with gene 56
+k: 0, nloss: 4
+time 800.3378: gene loss in organism 1 with gene 70
+k: 1, nloss: 2
+time 803.1029: gene loss in organism 4 with gene 346
+k: 0, nloss: 2
+time 803.1029: gene loss in organism 4 with gene 345
+performing gene duplication of 1 genes
+time 804.2404: gene duplication in organism 2 with gene 219, now gene 378
+k: 3, nloss: 4
+time 807.3034: gene loss in organism 1 with gene 12
+k: 2, nloss: 4
+time 807.3034: gene loss in organism 1 with gene 11
+k: 1, nloss: 4
+time 807.3034: gene loss in organism 1 with gene 10
+k: 0, nloss: 4
+time 807.3034: gene loss in organism 1 with gene 9
+performing gene duplication of 2 genes
+time 807.4313: gene duplication in organism 2 with gene 208, now gene 379
+time 807.4313: gene duplication in organism 2 with gene 84, now gene 380
+performing gene duplication of 3 genes
+time 809.9201: gene duplication in organism 3 with gene 128, now gene 381
+time 809.9201: gene duplication in organism 3 with gene 246, now gene 382
+time 809.9201: gene duplication in organism 3 with gene 247, now gene 383
+k: 0, nloss: 1
+time 814.5050: gene loss in organism 2 with gene 148
+k: 3, nloss: 4
+time 819.1642: gene loss in organism 3 with gene 97
+k: 2, nloss: 4
+time 819.1642: gene loss in organism 3 with gene 98
+k: 1, nloss: 4
+time 819.1642: gene loss in organism 3 with gene 225
+k: 0, nloss: 4
+time 819.1642: gene loss in organism 3 with gene 224
+performing gene duplication of 2 genes
+time 821.3537: gene duplication in organism 1 with gene 176, now gene 384
+time 821.3537: gene duplication in organism 1 with gene 228, now gene 385
+k: 2, nloss: 3
+time 833.2357: gene loss in organism 1 with gene 366
+k: 1, nloss: 3
+time 833.2357: gene loss in organism 1 with gene 365
+k: 0, nloss: 3
+time 833.2357: gene loss in organism 1 with gene 364
+k: 4, nloss: 5
+time 838.1954: gene loss in organism 4 with gene 375
+k: 3, nloss: 5
+time 838.1954: gene loss in organism 4 with gene 374
+k: 2, nloss: 5
+time 838.1954: gene loss in organism 4 with gene 373
+k: 1, nloss: 5
+time 838.1954: gene loss in organism 4 with gene 344
+k: 0, nloss: 5
+time 838.1954: gene loss in organism 4 with gene 343
+performing gene duplication of 2 genes
+time 841.5848: gene duplication in organism 4 with gene 326, now gene 386
+time 841.5848: gene duplication in organism 4 with gene 258, now gene 387
+k: 1, nloss: 2
+time 841.8543: gene loss in organism 1 with gene 266
+k: 0, nloss: 2
+time 841.8543: gene loss in organism 1 with gene 265
+k: 0, nloss: 1
+time 849.5413: gene loss in organism 4 with gene 43
+k: 1, nloss: 2
+time 855.1120: gene loss in organism 2 with gene 367
+k: 0, nloss: 2
+time 855.1120: gene loss in organism 2 with gene 79
+performing gene duplication of 5 genes
+time 862.2297: gene duplication in organism 4 with gene 334, now gene 388
+time 862.2297: gene duplication in organism 4 with gene 335, now gene 389
+time 862.2297: gene duplication in organism 4 with gene 336, now gene 390
+time 862.2297: gene duplication in organism 4 with gene 256, now gene 391
+time 862.2297: gene duplication in organism 4 with gene 257, now gene 392
+k: 2, nloss: 3
+time 873.0504: gene loss in organism 4 with gene 347
+k: 1, nloss: 3
+time 873.0504: gene loss in organism 4 with gene 330
+k: 0, nloss: 3
+time 873.0504: gene loss in organism 4 with gene 317
+performing gene duplication of 5 genes
+time 877.0494: gene duplication in organism 3 with gene 129, now gene 393
+time 877.0494: gene duplication in organism 3 with gene 371, now gene 394
+time 877.0494: gene duplication in organism 3 with gene 372, now gene 395
+time 877.0494: gene duplication in organism 3 with gene 130, now gene 396
+time 877.0494: gene duplication in organism 3 with gene 255, now gene 397
+k: 1, nloss: 2
+time 878.2744: gene loss in organism 4 with gene 256
+k: 0, nloss: 2
+time 878.2744: gene loss in organism 4 with gene 336
+performing gene duplication of 1 genes
+time 880.5491: gene duplication in organism 1 with gene 357, now gene 398
+performing gene duplication of 3 genes
+time 882.7729: gene duplication in organism 1 with gene 110, now gene 399
+time 882.7729: gene duplication in organism 1 with gene 353, now gene 400
+time 882.7729: gene duplication in organism 1 with gene 354, now gene 401
+k: 3, nloss: 4
+time 884.4478: gene loss in organism 1 with gene 110
+k: 2, nloss: 4
+time 884.4478: gene loss in organism 1 with gene 192
+k: 1, nloss: 4
+time 884.4478: gene loss in organism 1 with gene 191
+k: 0, nloss: 4
+time 884.4478: gene loss in organism 1 with gene 279
+k: 2, nloss: 3
+time 889.9146: gene loss in organism 3 with gene 358
+k: 1, nloss: 3
+time 889.9146: gene loss in organism 3 with gene 40
+k: 0, nloss: 3
+time 889.9146: gene loss in organism 3 with gene 202
+performing gene duplication of 3 genes
+time 890.1547: gene duplication in organism 4 with gene 124, now gene 402
+time 890.1547: gene duplication in organism 4 with gene 128, now gene 403
+time 890.1547: gene duplication in organism 4 with gene 246, now gene 404
+k: 2, nloss: 3
+time 893.1792: gene loss in organism 4 with gene 269
+k: 1, nloss: 3
+time 893.1792: gene loss in organism 4 with gene 268
+k: 0, nloss: 3
+time 893.1792: gene loss in organism 4 with gene 267
+k: 2, nloss: 3
+time 896.4067: gene loss in organism 2 with gene 379
+k: 1, nloss: 3
+time 896.4067: gene loss in organism 2 with gene 84
+k: 0, nloss: 3
+time 896.4067: gene loss in organism 2 with gene 208
+performing gene duplication of 2 genes
+time 898.5920: gene duplication in organism 4 with gene 349, now gene 405
+time 898.5920: gene duplication in organism 4 with gene 350, now gene 406
+performing gene duplication of 3 genes
+time 909.5507: gene duplication in organism 4 with gene 325, now gene 407
+time 909.5507: gene duplication in organism 4 with gene 326, now gene 408
+time 909.5507: gene duplication in organism 4 with gene 258, now gene 409
+performing gene duplication of 3 genes
+time 911.0256: gene duplication in organism 2 with gene 4, now gene 410
+time 911.0256: gene duplication in organism 2 with gene 174, now gene 411
+time 911.0256: gene duplication in organism 2 with gene 147, now gene 412
+k: 0, nloss: 1
+time 912.5731: gene loss in organism 4 with gene 258
+k: 2, nloss: 3
+time 914.4230: gene loss in organism 2 with gene 4
+k: 1, nloss: 3
+time 914.4230: gene loss in organism 2 with gene 2
+k: 0, nloss: 3
+time 914.4230: gene loss in organism 2 with gene 1
+k: 3, nloss: 4
+time 916.8860: gene loss in organism 1 with gene 286
+k: 2, nloss: 4
+time 916.8860: gene loss in organism 1 with gene 285
+k: 1, nloss: 4
+time 916.8860: gene loss in organism 1 with gene 314
+k: 0, nloss: 4
+time 916.8860: gene loss in organism 1 with gene 294
+performing gene duplication of 1 genes
+time 917.7687: gene duplication in organism 1 with gene 216, now gene 413
+performing gene duplication of 2 genes
+time 923.4233: gene duplication in organism 4 with gene 246, now gene 414
+time 923.4233: gene duplication in organism 4 with gene 402, now gene 415
+k: 0, nloss: 1
+time 932.3963: gene loss in organism 1 with gene 357
+performing gene duplication of 1 genes
+time 933.7067: gene duplication in organism 2 with gene 174, now gene 416
+performing gene duplication of 4 genes
+time 937.5290: gene duplication in organism 4 with gene 388, now gene 417
+time 937.5290: gene duplication in organism 4 with gene 389, now gene 418
+time 937.5290: gene duplication in organism 4 with gene 390, now gene 419
+time 937.5290: gene duplication in organism 4 with gene 391, now gene 420
+k: 4, nloss: 5
+time 939.1331: gene loss in organism 1 with gene 290
+k: 3, nloss: 5
+time 939.1331: gene loss in organism 1 with gene 238
+k: 2, nloss: 5
+time 939.1331: gene loss in organism 1 with gene 401
+k: 1, nloss: 5
+time 939.1331: gene loss in organism 1 with gene 400
+k: 0, nloss: 5
+time 939.1331: gene loss in organism 1 with gene 399
+k: 3, nloss: 4
+time 943.0031: gene loss in organism 1 with gene 239
+k: 2, nloss: 4
+time 943.0031: gene loss in organism 1 with gene 199
+k: 1, nloss: 4
+time 943.0031: gene loss in organism 1 with gene 43
+k: 0, nloss: 4
+time 943.0031: gene loss in organism 1 with gene 42
+k: 0, nloss: 1
+time 945.3357: gene loss in organism 3 with gene 395
+k: 2, nloss: 3
+time 948.1301: gene loss in organism 4 with gene 386
+k: 1, nloss: 3
+time 948.1301: gene loss in organism 4 with gene 409
+k: 0, nloss: 3
+time 948.1301: gene loss in organism 4 with gene 408
+k: 3, nloss: 4
+time 948.2048: gene loss in organism 4 with gene 403
+k: 2, nloss: 4
+time 948.2048: gene loss in organism 4 with gene 415
+k: 1, nloss: 4
+time 948.2048: gene loss in organism 4 with gene 414
+k: 0, nloss: 4
+time 948.2048: gene loss in organism 4 with gene 402
+k: 4, nloss: 5
+time 950.4815: gene loss in organism 3 with gene 396
+k: 3, nloss: 5
+time 950.4815: gene loss in organism 3 with gene 394
+k: 2, nloss: 5
+time 950.4815: gene loss in organism 3 with gene 393
+k: 1, nloss: 5
+time 950.4815: gene loss in organism 3 with gene 255
+k: 0, nloss: 5
+time 950.4815: gene loss in organism 3 with gene 130
+performing gene duplication of 3 genes
+time 951.1117: gene duplication in organism 1 with gene 363, now gene 421
+time 951.1117: gene duplication in organism 1 with gene 376, now gene 422
+time 951.1117: gene duplication in organism 1 with gene 377, now gene 423
+k: 4, nloss: 5
+time 958.9463: gene loss in organism 3 with gene 381
+k: 3, nloss: 5
+time 958.9463: gene loss in organism 3 with gene 247
+k: 2, nloss: 5
+time 958.9463: gene loss in organism 3 with gene 246
+k: 1, nloss: 5
+time 958.9463: gene loss in organism 3 with gene 128
+k: 0, nloss: 5
+time 958.9463: gene loss in organism 3 with gene 124
+performing gene duplication of 2 genes
+time 969.0728: gene duplication in organism 4 with gene 340, now gene 424
+time 969.0728: gene duplication in organism 4 with gene 334, now gene 425
+k: 3, nloss: 4
+time 973.2270: gene loss in organism 1 with gene 287
+k: 2, nloss: 4
+time 973.2270: gene loss in organism 1 with gene 354
+k: 1, nloss: 4
+time 973.2270: gene loss in organism 1 with gene 353
+k: 0, nloss: 4
+time 973.2270: gene loss in organism 1 with gene 275
+k: 0, nloss: 1
+time 978.7019: gene loss in organism 4 with gene 248
+k: 1, nloss: 2
+time 983.4868: gene loss in organism 3 with gene 270
+k: 0, nloss: 2
+time 983.4868: gene loss in organism 3 with gene 269
+k: 3, nloss: 4
+time 985.6037: gene loss in organism 4 with gene 417
+k: 2, nloss: 4
+time 985.6037: gene loss in organism 4 with gene 391
+k: 1, nloss: 4
+time 985.6037: gene loss in organism 4 with gene 390
+k: 0, nloss: 4
+time 985.6037: gene loss in organism 4 with gene 389
+performing gene duplication of 2 genes
+time 988.0012: gene duplication in organism 4 with gene 326, now gene 426
+time 988.0012: gene duplication in organism 4 with gene 407, now gene 427
+k: 4, nloss: 5
+time 990.7014: gene loss in organism 4 with gene 128
+k: 3, nloss: 5
+time 990.7014: gene loss in organism 4 with gene 124
+k: 2, nloss: 5
+time 990.7014: gene loss in organism 4 with gene 338
+k: 1, nloss: 5
+time 990.7014: gene loss in organism 4 with gene 337
+k: 0, nloss: 5
+time 990.7014: gene loss in organism 4 with gene 222
+k: 4, nloss: 5
+time 995.7824: gene loss in organism 1 with gene 27
+k: 3, nloss: 5
+time 995.7824: gene loss in organism 1 with gene 18
+k: 2, nloss: 5
+time 995.7824: gene loss in organism 1 with gene 135
+k: 1, nloss: 5
+time 995.7824: gene loss in organism 1 with gene 134
+k: 0, nloss: 5
+time 995.7824: gene loss in organism 1 with gene 17
+k: 1, nloss: 2
+time 997.3402: gene loss in organism 2 with gene 220
+k: 0, nloss: 2
+time 997.3402: gene loss in organism 2 with gene 378
+k: 1, nloss: 2
+time 997.7620: gene loss in organism 4 with gene 255
+k: 0, nloss: 2
+time 997.7620: gene loss in organism 4 with gene 331
+k: 1, nloss: 2
+time 999.0953: gene loss in organism 4 with gene 333
+k: 0, nloss: 2
+time 999.0953: gene loss in organism 4 with gene 406
+
+
+
+110 genes in 4 species generated
+129 gene duplications resulting in 95 genes

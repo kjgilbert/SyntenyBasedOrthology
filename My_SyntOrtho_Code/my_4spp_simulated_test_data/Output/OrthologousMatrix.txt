@@ -1,0 +1,28 @@
+# The groups of orthologs are given as matrix with group per row
+# and one genome per tab-separated column. Numbers refer to
+# entry number as listed in the file "Map-SeqNum-id.map.
+# Alternatively, use the OrthologousGroup.txt representation.
+SE001_aa	SE002_aa	SE003_aa	SE004_aa
+0	0	18	37
+0	8	0	1
+11	0	0	12
+30	0	0	25
+21	0	0	11
+12	0	25	0
+0	0	26	23
+0	0	16	6
+6	0	12	0
+14	0	0	20
+7	0	0	27
+29	0	5	0
+23	0	0	18
+0	1	0	29
+0	0	21	9
+0	0	6	26
+25	0	27	0
+0	0	4	13
+0	0	3	15
+28	0	22	0
+22	0	0	8
+0	3	24	0
+0	0	8	31

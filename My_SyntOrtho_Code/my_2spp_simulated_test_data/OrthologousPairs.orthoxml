@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orthoXML xmlns="http://orthoXML.org/2011/" version="0.3" origin="OMA standalone" originVersion="2.4.1">
+ <notes>
+MinScore=181; LengthTol=0.61; StablePairTol=1.81; VerifiedPairTol=1.53; MinSeqLen=50
+ </notes>
+ <species name="SE001_aa" NCBITaxId="-1">
+  <database name="SE001_aa" version="Cache/DB/SE001_aa.db">
+   <genes>
+    <gene id="1" protId="G1_SE001, sequence type: type1, locus: 1"/>
+    <gene id="2" protId="G2_SE001, sequence type: type1, locus: 2"/>
+    <gene id="3" protId="G3_SE001, sequence type: type1, locus: 3"/>
+    <gene id="4" protId="G4_SE001, sequence type: type1, locus: 4"/>
+    <gene id="5" protId="G5_SE001, sequence type: type1, locus: 5"/>
+    <gene id="6" protId="G6_SE001, sequence type: type1, locus: 6"/>
+    <gene id="7" protId="G7_SE001, sequence type: type1, locus: 7"/>
+    <gene id="8" protId="G8_SE001, sequence type: type1, locus: 8"/>
+    <gene id="9" protId="G9_SE001, sequence type: type1, locus: 9"/>
+    <gene id="10" protId="G10_SE001, sequence type: type1, locus: 10"/>
+   </genes>
+  </database>
+ </species>
+ <species name="SE002_aa" NCBITaxId="-1">
+  <database name="SE002_aa" version="Cache/DB/SE002_aa.db">
+   <genes>
+    <gene id="11" protId="G1_SE002, sequence type: type1, locus: 1"/>
+    <gene id="12" protId="G2_SE002, sequence type: type1, locus: 2"/>
+    <gene id="13" protId="G3_SE002, sequence type: type1, locus: 3"/>
+    <gene id="14" protId="G4_SE002, sequence type: type1, locus: 4"/>
+    <gene id="15" protId="G5_SE002, sequence type: type1, locus: 5"/>
+    <gene id="16" protId="G6_SE002, sequence type: type1, locus: 6"/>
+    <gene id="17" protId="G7_SE002, sequence type: type1, locus: 7"/>
+    <gene id="18" protId="G8_SE002, sequence type: type1, locus: 8"/>
+    <gene id="19" protId="G9_SE002, sequence type: type1, locus: 9"/>
+    <gene id="20" protId="G10_SE002, sequence type: type1, locus: 10"/>
+   </genes>
+  </database>
+ </species>
+ <groups>
+ </groups>
+</orthoXML>

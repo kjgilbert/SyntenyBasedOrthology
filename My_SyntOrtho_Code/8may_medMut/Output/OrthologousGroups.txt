@@ -1,0 +1,29 @@
+# The groups of orthologs are given as one per row, starting
+# with a group identifier, followed by all group members, all
+# separated by tabs. For a more compact representation, use the
+# OrthologousMatrix.txt representation.
+OMA00001	SE001_aa:G21_SE001, sequence type: type1, locus: 21	SE002_aa:G21_SE002, sequence type: type1, locus: 21	SE003_aa:G21_SE003, sequence type: type1, locus: 21
+OMA00002	SE001_aa:G15_SE001, sequence type: type1, locus: 15	SE002_aa:G15_SE002, sequence type: type1, locus: 15	SE003_aa:G15_SE003, sequence type: type1, locus: 15
+OMA00003	SE001_aa:G13_SE001, sequence type: type1, locus: 13	SE002_aa:G13_SE002, sequence type: type1, locus: 13	SE003_aa:G13_SE003, sequence type: type1, locus: 13
+OMA00004	SE001_aa:G18_SE001, sequence type: type1, locus: 18	SE002_aa:G18_SE002, sequence type: type1, locus: 18	SE003_aa:G18_SE003, sequence type: type1, locus: 18
+OMA00005	SE001_aa:G7_SE001, sequence type: type1, locus: 7	SE002_aa:G7_SE002, sequence type: type1, locus: 7	SE003_aa:G7_SE003, sequence type: type1, locus: 7
+OMA00006	SE001_aa:G20_SE001, sequence type: type1, locus: 20	SE002_aa:G20_SE002, sequence type: type1, locus: 20	SE003_aa:G20_SE003, sequence type: type1, locus: 20
+OMA00007	SE001_aa:G9_SE001, sequence type: type1, locus: 9	SE002_aa:G9_SE002, sequence type: type1, locus: 9	SE003_aa:G9_SE003, sequence type: type1, locus: 9
+OMA00008	SE001_aa:G16_SE001, sequence type: type1, locus: 16	SE002_aa:G16_SE002, sequence type: type1, locus: 16	SE003_aa:G16_SE003, sequence type: type1, locus: 16
+OMA00009	SE001_aa:G8_SE001, sequence type: type1, locus: 8	SE002_aa:G8_SE002, sequence type: type1, locus: 8	SE003_aa:G8_SE003, sequence type: type1, locus: 8
+OMA00010	SE001_aa:G11_SE001, sequence type: type1, locus: 11	SE002_aa:G11_SE002, sequence type: type1, locus: 11	SE003_aa:G11_SE003, sequence type: type1, locus: 11
+OMA00011	SE001_aa:G17_SE001, sequence type: type1, locus: 17	SE002_aa:G17_SE002, sequence type: type1, locus: 17	SE003_aa:G17_SE003, sequence type: type1, locus: 17
+OMA00012	SE001_aa:G12_SE001, sequence type: type1, locus: 12	SE002_aa:G12_SE002, sequence type: type1, locus: 12	SE003_aa:G12_SE003, sequence type: type1, locus: 12
+OMA00013	SE001_aa:G5_SE001, sequence type: type1, locus: 5	SE002_aa:G5_SE002, sequence type: type1, locus: 5	SE003_aa:G5_SE003, sequence type: type1, locus: 5
+OMA00014	SE001_aa:G1_SE001, sequence type: type1, locus: 1	SE002_aa:G1_SE002, sequence type: type1, locus: 1	SE003_aa:G1_SE003, sequence type: type1, locus: 1
+OMA00015	SE001_aa:G23_SE001, sequence type: type1, locus: 23	SE002_aa:G23_SE002, sequence type: type1, locus: 23	SE003_aa:G23_SE003, sequence type: type1, locus: 23
+OMA00016	SE001_aa:G14_SE001, sequence type: type1, locus: 14	SE002_aa:G14_SE002, sequence type: type1, locus: 14	SE003_aa:G14_SE003, sequence type: type1, locus: 14
+OMA00017	SE001_aa:G10_SE001, sequence type: type1, locus: 10	SE002_aa:G10_SE002, sequence type: type1, locus: 10	SE003_aa:G10_SE003, sequence type: type1, locus: 10
+OMA00018	SE001_aa:G3_SE001, sequence type: type1, locus: 3	SE002_aa:G3_SE002, sequence type: type1, locus: 3	SE003_aa:G3_SE003, sequence type: type1, locus: 3
+OMA00019	SE001_aa:G19_SE001, sequence type: type1, locus: 19	SE002_aa:G19_SE002, sequence type: type1, locus: 19	SE003_aa:G19_SE003, sequence type: type1, locus: 19
+OMA00020	SE001_aa:G25_SE001, sequence type: type1, locus: 25	SE002_aa:G25_SE002, sequence type: type1, locus: 25	SE003_aa:G25_SE003, sequence type: type1, locus: 25
+OMA00021	SE001_aa:G6_SE001, sequence type: type1, locus: 6	SE002_aa:G6_SE002, sequence type: type1, locus: 6	SE003_aa:G6_SE003, sequence type: type1, locus: 6
+OMA00022	SE001_aa:G22_SE001, sequence type: type1, locus: 22	SE002_aa:G22_SE002, sequence type: type1, locus: 22	SE003_aa:G22_SE003, sequence type: type1, locus: 22
+OMA00023	SE001_aa:G2_SE001, sequence type: type1, locus: 2	SE003_aa:G2_SE003, sequence type: type1, locus: 2
+OMA00024	SE001_aa:G4_SE001, sequence type: type1, locus: 4	SE002_aa:G4_SE002, sequence type: type1, locus: 4	SE003_aa:G4_SE003, sequence type: type1, locus: 4
+OMA00025	SE001_aa:G24_SE001, sequence type: type1, locus: 24	SE002_aa:G24_SE002, sequence type: type1, locus: 24	SE003_aa:G24_SE003, sequence type: type1, locus: 24

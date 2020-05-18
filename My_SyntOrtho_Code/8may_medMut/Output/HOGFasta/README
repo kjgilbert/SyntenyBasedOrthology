@@ -1,0 +1,6 @@
+This directory contains for each hierarchical orthologous group
+a fasta formatted file with all the proteins emerging from the
+earliest speciation event, i.e. the topmost taxonomic level.
+
+For a more detailed structure of the later evolution, please use
+the orthoxml output file.

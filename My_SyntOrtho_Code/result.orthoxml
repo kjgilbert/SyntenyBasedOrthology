@@ -1,0 +1,32 @@
+<orthoXML>
+    <species name=b'"a1"'>
+        <database name=b'""'>
+            <genes>
+                <gene protId=b'"SE001_a1"' id="0"/>
+            </genes>
+        </database>
+    </species>
+    <species name=b'"a2"'>
+        <database name=b'""'>
+            <genes>
+                <gene protId=b'"SE002_a2"' id="1"/>
+            </genes>
+        </database>
+    </species>
+    <species name=b'"a3"'>
+        <database name=b'""'>
+            <genes>
+                <gene protId=b'"SE003_a3"' id="2"/>
+            </genes>
+        </database>
+    </species>
+    <groups>
+        <orthologGroup>
+            <geneRef id="0"/>
+            <orthologGroup>
+                <geneRef id="1"/>
+                <geneRef id="2"/>
+            </orthologGroup>
+        </orthologGroup>
+    </groups>
+</orthoXML>

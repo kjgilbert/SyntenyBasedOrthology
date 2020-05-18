@@ -1,0 +1,8 @@
+<ortho:orthoXML>
+    <ortho:groups>
+        <ortho:orthologGroup>
+            <ortho:geneRef id="1"/>
+            <ortho:geneRef id="2"/>
+        </ortho:orthologGroup>
+    </ortho:groups>
+</ortho:orthoXML>

@@ -1,0 +1,14 @@
+Synthetic evolution
+-------------------
+
+first organism (artificial sequences): 25 proteins with 150 aa (average)
+height of tree: 10000.00, Speciations: 3
+
+
+something interesting is happening here...
+time 0.0000: speciation event of organism 1 to organism 2
+time 1066.7080: speciation event of organism 2 to organism 3
+
+
+
+75 genes in 3 species generated

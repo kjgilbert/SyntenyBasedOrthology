@@ -1,0 +1,8 @@
+(AN2:0.5,((AN5:0.5,(AN7:0.5,AN8:0.5):0.5[&&NHX:Ev=0>1:S=Primates:ID=AN6]):0.5[&&NHX:Ev=0>1:S=Mammalia:ID=AN4],(AN10:0.5,(AN12:0.5,AN13:0.5):0.5[&&NHX:Ev=1>0:ID=AN11]):0.5[&&NHX:Ev=0>1:S=Mammalia:ID=AN9]):0.5[&&NHX:Ev=1>0:ID=AN3])[&&NHX:Ev=0>1:S=Metazoa:ID=AN1];
+AN2:A|XXX|UniProtKB=A2;
+AN5:B|XXX|UniProtKB=B5;
+AN7:C|XXX|UniProtKB=C7;
+AN8:D|XXX|UniProtKB=D8;
+AN10:B|XXX|UniProtKB=B10;
+AN12:C|XXX|UniProtKB=C12;
+AN13:C|XXX|UniProtKB=C13;

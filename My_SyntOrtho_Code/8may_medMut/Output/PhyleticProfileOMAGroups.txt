@@ -1,0 +1,30 @@
+# The phyletic profiles are given as one OMA Group per row, starting
+# with a group identifier, followed by a presents/absents indicator
+# (i.e. 0 := absent, 1: present) per species in the group as columns.
+# The first row contains the species for each column.
+Group	SE001_aa	SE002_aa	SE003_aa
+OMA00001	1	1	1
+OMA00002	1	1	1
+OMA00003	1	1	1
+OMA00004	1	1	1
+OMA00005	1	1	1
+OMA00006	1	1	1
+OMA00007	1	1	1
+OMA00008	1	1	1
+OMA00009	1	1	1
+OMA00010	1	1	1
+OMA00011	1	1	1
+OMA00012	1	1	1
+OMA00013	1	1	1
+OMA00014	1	1	1
+OMA00015	1	1	1
+OMA00016	1	1	1
+OMA00017	1	1	1
+OMA00018	1	1	1
+OMA00019	1	1	1
+OMA00020	1	1	1
+OMA00021	1	1	1
+OMA00022	1	1	1
+OMA00023	1	0	1
+OMA00024	1	1	1
+OMA00025	1	1	1

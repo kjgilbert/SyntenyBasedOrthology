@@ -184,7 +184,7 @@
         <geneRef id="60"/>
       </orthologGroup>
     </orthologGroup>
-    <orthologGroup id="11">
+    <orthologGroup id="test">
       <property name="TaxRange" value="/SE001_aa/SE002_aa/SE003_aa"/>
       <geneRef id="11"/>
       <orthologGroup>
@@ -193,7 +193,7 @@
         <geneRef id="61"/>
       </orthologGroup>
     </orthologGroup>
-    <orthologGroup id="12">
+    <orthologGroup id="12aaaa">
       <property name="TaxRange" value="/SE001_aa/SE002_aa/SE003_aa"/>
       <geneRef id="12"/>
       <orthologGroup>
@@ -203,7 +203,7 @@
         <geneRef id="63"/>
       </orthologGroup>
     </orthologGroup>
-    <orthologGroup id="13">
+    <orthologGroup id="13bbbb">
       <property name="TaxRange" value="/SE001_aa/SE002_aa/SE003_aa"/>
       <geneRef id="13"/>
       <orthologGroup>

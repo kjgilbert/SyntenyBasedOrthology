@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import sys
-from ete2 import PhyloTree, orthoxml
+from ete3 import PhyloTree, orthoxml
 import argparse
 
 __DESCRIPTION__ = """
@@ -88,7 +88,7 @@ def export_as_orthoXML(t, database, evoltype_attr="evoltype"):
                         evoltype = getattr(ch, evoltype_attr)
                     except AttributeError:
                         if not ch.is_leaf():
-                            print ch.features
+                            print(ch.features)
                             raise AttributeError("\n\nUnknown evolutionary event. Please use [S] for speciation and [D] for duplication: %s" %ch.get_ascii())
                     
                     if evoltype == "D":
@@ -182,10 +182,10 @@ if __name__ == "__main__":
         t.get_descendant_evol_events()
         
     if args.ascii:
-        print t.get_ascii(attributes=[args.evoltype_attr, "name"], show_internal=True)
+        print(t.get_ascii(attributes=[args.evoltype_attr, "name"], show_internal=True))
         
     if args.newick:
-        print t.write(features=[args.evoltype_attr], format_root_node=True)
+        print(t.write(features=[args.evoltype_attr], format_root_node=True))
         
     if args.show:
         t.show()

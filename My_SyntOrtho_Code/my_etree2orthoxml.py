@@ -52,15 +52,12 @@ def export_as_orthoXML(t, database, evoltype_attr="evoltype"):
             genes = sp2genes[spname]
 
         gn = orthoxml.gene(protId=leaf.name, id=genid)
-        print(gn)
         leaf2id[leaf] = genid
         genes.add_gene(gn)
         
     # Add an ortho group container to the orthoXML document
     ortho_groups = orthoxml.groups()
     O.set_groups(ortho_groups)
-    print(ortho_groups, O)
-    O.print
     
     # OrthoXML does not support duplication events to be at the root
     # of the tree, so we search for the top most speciation events in
@@ -161,8 +158,8 @@ if __name__ == "__main__":
                               " before orthoXML export"))
     
     
-    args = parser.parse_args()
-    newick = args.tree[0]
+    args = parser.parse_args() # can access all the variables fed in via the command line
+    newick = args.tree[0] # this is the newick tree read in, to edit, could either do via a directory here? 
 
     SPECIES_NAME_POS = args.species_field
     SPECIES_NAME_DELIMITER = args.species_delimiter
@@ -192,4 +189,4 @@ if __name__ == "__main__":
     if args.show:
         t.show()
     
-    export_as_orthoXML(t, args.database, args.evoltype_attr)
+    export_as_orthoXML(t, args.database, args.evoltype_attr) # the single tree is read in here and made into orthoxml

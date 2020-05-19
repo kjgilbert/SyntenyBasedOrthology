@@ -112,10 +112,10 @@
         <geneRef id="52"/>
       </orthologGroup>
     </orthologGroup>
-    <orthologGroup id="3">
+    <orthologGroup id="testing">
       <property name="TaxRange" value="/SE001_aa/SE002_aa/SE003_aa"/>
       <geneRef id="3"/>
-      <orthologGroup>
+      <orthologGroup id="internal">
         <property name="TaxRange" value="/SE002_aa/SE003_aa"/>
         <geneRef id="28"/>
         <geneRef id="53"/>

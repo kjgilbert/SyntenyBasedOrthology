@@ -96,7 +96,7 @@
     <orthologGroup id="1">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="25"/>
-      <orthologGroup>
+      <orthologGroup id="i1">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="1"/>
         <geneRef id="50"/>
@@ -105,7 +105,7 @@
     <orthologGroup id="2">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="26"/>
-      <orthologGroup>
+      <orthologGroup id="i2">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="2"/>
         <geneRef id="51"/>
@@ -114,7 +114,7 @@
     <orthologGroup id="3">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="28"/>
-      <orthologGroup>
+      <orthologGroup id="i3">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="3"/>
         <geneRef id="53"/>
@@ -123,7 +123,7 @@
     <orthologGroup id="4">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="29"/>
-      <orthologGroup>
+      <orthologGroup id="i4">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="4"/>
         <geneRef id="54"/>
@@ -132,7 +132,7 @@
     <orthologGroup id="5">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="30"/>
-      <orthologGroup>
+      <orthologGroup id="i5">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="5"/>
         <geneRef id="55"/>
@@ -141,7 +141,7 @@
     <orthologGroup id="6">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="31"/>
-      <orthologGroup>
+      <orthologGroup id="i6">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="6"/>
         <geneRef id="56"/>
@@ -150,7 +150,7 @@
     <orthologGroup id="7">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="32"/>
-      <orthologGroup>
+      <orthologGroup id="i7">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="7"/>
         <geneRef id="57"/>
@@ -159,7 +159,7 @@
     <orthologGroup id="8">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="33"/>
-      <orthologGroup>
+      <orthologGroup id="i8">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="8"/>
         <geneRef id="58"/>
@@ -168,7 +168,7 @@
     <orthologGroup id="9">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="34"/>
-      <orthologGroup>
+      <orthologGroup id="i9">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="9"/>
         <geneRef id="59"/>
@@ -177,7 +177,7 @@
     <orthologGroup id="10">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="35"/>
-      <orthologGroup>
+      <orthologGroup id="i10">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="10"/>
         <geneRef id="60"/>
@@ -186,7 +186,7 @@
     <orthologGroup id="11">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="36"/>
-      <orthologGroup>
+      <orthologGroup id="i11">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="11"/>
         <geneRef id="61"/>
@@ -195,7 +195,7 @@
     <orthologGroup id="12">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="37"/>
-      <orthologGroup>
+      <orthologGroup id="i12">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="12"/>
         <geneRef id="62"/>
@@ -204,7 +204,7 @@
     <orthologGroup id="13">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="38"/>
-      <orthologGroup>
+      <orthologGroup id="i13">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="13"/>
         <geneRef id="63"/>
@@ -213,7 +213,7 @@
     <orthologGroup id="14">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="39"/>
-      <orthologGroup>
+      <orthologGroup id="i14">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="14"/>
         <geneRef id="64"/>
@@ -222,7 +222,7 @@
     <orthologGroup id="15">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="40"/>
-      <orthologGroup>
+      <orthologGroup id="i15">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="15"/>
         <geneRef id="65"/>
@@ -231,7 +231,7 @@
     <orthologGroup id="16">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="41"/>
-      <orthologGroup>
+      <orthologGroup id="i16">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="16"/>
         <geneRef id="66"/>
@@ -240,7 +240,7 @@
     <orthologGroup id="17">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="42"/>
-      <orthologGroup>
+      <orthologGroup id="i17">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="17"/>
         <geneRef id="67"/>
@@ -249,7 +249,7 @@
     <orthologGroup id="18">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="43"/>
-      <orthologGroup>
+      <orthologGroup id="i18">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="18"/>
         <geneRef id="68"/>
@@ -258,7 +258,7 @@
     <orthologGroup id="19">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="44"/>
-      <orthologGroup>
+      <orthologGroup id="i19">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="19"/>
         <geneRef id="69"/>
@@ -267,7 +267,7 @@
     <orthologGroup id="20">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="45"/>
-      <orthologGroup>
+      <orthologGroup id="i20">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="20"/>
         <geneRef id="70"/>
@@ -276,7 +276,7 @@
     <orthologGroup id="21">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="46"/>
-      <orthologGroup>
+      <orthologGroup id="i21">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="21"/>
         <geneRef id="71"/>
@@ -285,7 +285,7 @@
     <orthologGroup id="22">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="47"/>
-      <orthologGroup>
+      <orthologGroup id="i22">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="22"/>
         <geneRef id="72"/>
@@ -294,7 +294,7 @@
     <orthologGroup id="23">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="48"/>
-      <orthologGroup>
+      <orthologGroup id="i23">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="23"/>
         <geneRef id="73"/>
@@ -303,7 +303,7 @@
     <orthologGroup id="24">
       <property name="TaxRange" value="/SE002_aa/SE001_aa/SE003_aa"/>
       <geneRef id="49"/>
-      <orthologGroup>
+      <orthologGroup id="i24">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
         <geneRef id="24"/>
         <geneRef id="74"/>

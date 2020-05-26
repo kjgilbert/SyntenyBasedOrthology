@@ -9,7 +9,7 @@ uuid := 'sim_3spp_loss';
 mname := uuid;
 
 # directories for file storage - you may want to change these
-wdir := '/results/';
+wdir := './results_loss/';
 dbdir := 'DB/';
 dbAncdir := 'DBancestral/';
 

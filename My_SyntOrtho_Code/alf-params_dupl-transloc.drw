@@ -9,7 +9,7 @@ uuid := 'sim_3spp_dup-trans';
 mname := uuid;
 
 # directories for file storage - you may want to change these
-wdir := '/results/';
+wdir := './results/';
 dbdir := 'DB/';
 dbAncdir := 'DBancestral/';
 

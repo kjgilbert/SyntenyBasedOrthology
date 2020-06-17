@@ -10,9 +10,9 @@
         <gene id="5" protId="G5_SE001, sequence type: type1, locus: 5"/>
         <gene id="6" protId="G6_SE001, sequence type: type1, locus: 6"/>
         <gene id="7" protId="G7_SE001, sequence type: type1, locus: 7"/>
-        <gene id="8" protId="G8_SE001, sequence type: type1, locus: 8"/>
-        <gene id="9" protId="G9_SE001, sequence type: type1, locus: -10"/>
-        <gene id="10" protId="G10_SE001, sequence type: type1, locus: -9"/>
+        <gene id="8" protId="G8_SE001, sequence type: type1, locus: -10"/>
+        <gene id="9" protId="G9_SE001, sequence type: type1, locus: -9"/>
+        <gene id="10" protId="G10_SE001, sequence type: type1, locus: -8"/>
         <gene id="11" protId="G11_SE001, sequence type: type1, locus: 11"/>
         <gene id="12" protId="G12_SE001, sequence type: type1, locus: 12"/>
         <gene id="13" protId="G13_SE001, sequence type: type1, locus: 13"/>
@@ -162,7 +162,7 @@
       <geneRef id="33"/>
       <orthologGroup id="i8">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
-        <geneRef id="8"/>
+        <geneRef id="10"/>
         <geneRef id="58"/>
       </orthologGroup>
     </orthologGroup>
@@ -180,7 +180,7 @@
       <geneRef id="35"/>
       <orthologGroup id="i10">
         <property name="TaxRange" value="/SE001_aa/SE003_aa"/>
-        <geneRef id="10"/>
+        <geneRef id="8"/>
         <geneRef id="60"/>
       </orthologGroup>
     </orthologGroup>

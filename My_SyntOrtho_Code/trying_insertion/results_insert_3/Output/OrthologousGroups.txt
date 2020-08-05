@@ -1,0 +1,9 @@
+# The groups of orthologs are given as one per row, starting
+# with a group identifier, followed by all group members, all
+# separated by tabs. For a more compact representation, use the
+# OrthologousMatrix.txt representation.
+OMA00001	SE001_aa:G19_SE001, sequence type: type1, locus: 19	SE003_aa:G19_SE003, sequence type: type1, locus: 19
+OMA00002	SE001_aa:G29_SE001, sequence type: type1, locus: 29	SE003_aa:G29_SE003, sequence type: type1, locus: 29
+OMA00003	SE001_aa:G34_SE001, sequence type: type1, locus: 34	SE003_aa:G34_SE003, sequence type: type1, locus: 34
+OMA00004	SE001_aa:G43_SE001, sequence type: type1, locus: 43	SE003_aa:G43_SE003, sequence type: type1, locus: 43
+OMA00005	SE001_aa:G40_SE001, sequence type: type1, locus: 40	SE003_aa:G40_SE003, sequence type: type1, locus: 40

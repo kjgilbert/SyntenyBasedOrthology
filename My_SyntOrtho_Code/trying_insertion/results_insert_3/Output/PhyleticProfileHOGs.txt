@@ -1,0 +1,10 @@
+# The phyletic profiles are given as one HOG (at its root level)
+# per row, starting with a group identifier, followed by the number
+# of entries per species in the group as columns. The first row
+# contains the species for each column.
+Group	SE001_aa	SE002_aa	SE003_aa
+HOG00001	1	0	1
+HOG00002	1	0	1
+HOG00003	1	0	1
+HOG00004	1	0	1
+HOG00005	1	0	1

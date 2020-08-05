@@ -1,0 +1,54 @@
+# Format: Protein 1<tab>Protein 2<tab>Protein ID1<tab>ProteinID2<tab>Orthology type<tab>OMA group (if any)
+# Every pair is listed only once, and in no particular order.
+# The map between sequence number and ID are given
+# in the file "Map-SeqNum-ID.map
+1	1	G1_SE002, sequence type: type1, locus: 1	G1_SE003, sequence type: type1, locus: 1	1:1	28
+2	2	G2_SE002, sequence type: type1, locus: 2	G2_SE003, sequence type: type1, locus: 2	1:1	41
+3	3	G3_SE002, sequence type: type1, locus: 3	G3_SE003, sequence type: type1, locus: 3	1:1	44
+4	4	G4_SE002, sequence type: type1, locus: 4	G4_SE003, sequence type: type1, locus: 4	1:1	30
+5	5	G5_SE002, sequence type: type1, locus: 5	G5_SE003, sequence type: type1, locus: 5	1:1	34
+6	6	G6_SE002, sequence type: type1, locus: 6	G6_SE003, sequence type: type1, locus: 6	1:1	49
+7	7	G7_SE002, sequence type: type1, locus: 7	G7_SE003, sequence type: type1, locus: 7	1:1	22
+8	8	G8_SE002, sequence type: type1, locus: 8	G8_SE003, sequence type: type1, locus: 8	1:1	2
+9	9	G9_SE002, sequence type: type1, locus: 9	G9_SE003, sequence type: type1, locus: 9	1:1	19
+10	10	G10_SE002, sequence type: type1, locus: 10	G10_SE003, sequence type: type1, locus: 10	1:1	33
+11	11	G11_SE002, sequence type: type1, locus: 11	G11_SE003, sequence type: type1, locus: 11	1:1	7
+12	12	G12_SE002, sequence type: type1, locus: 12	G12_SE003, sequence type: type1, locus: 12	1:1	15
+13	13	G13_SE002, sequence type: type1, locus: 13	G13_SE003, sequence type: type1, locus: 13	1:1	10
+14	14	G14_SE002, sequence type: type1, locus: 14	G14_SE003, sequence type: type1, locus: 14	1:1	47
+15	15	G15_SE002, sequence type: type1, locus: 15	G15_SE003, sequence type: type1, locus: 15	1:1	20
+16	16	G16_SE002, sequence type: type1, locus: 16	G16_SE003, sequence type: type1, locus: 16	1:1	39
+17	17	G17_SE002, sequence type: type1, locus: 17	G17_SE003, sequence type: type1, locus: 17	1:1	23
+18	18	G18_SE002, sequence type: type1, locus: 18	G18_SE003, sequence type: type1, locus: 18	1:1	38
+19	19	G19_SE002, sequence type: type1, locus: 19	G19_SE003, sequence type: type1, locus: 19	1:1	37
+20	20	G20_SE002, sequence type: type1, locus: 20	G20_SE003, sequence type: type1, locus: 20	1:1	45
+21	21	G21_SE002, sequence type: type1, locus: 21	G21_SE003, sequence type: type1, locus: 21	1:1	42
+22	22	G22_SE002, sequence type: type1, locus: 22	G22_SE003, sequence type: type1, locus: 22	1:1	40
+23	23	G23_SE002, sequence type: type1, locus: 23	G23_SE003, sequence type: type1, locus: 23	1:1	3
+24	24	G24_SE002, sequence type: type1, locus: 24	G24_SE003, sequence type: type1, locus: 24	1:1	1
+25	25	G25_SE002, sequence type: type1, locus: 25	G25_SE003, sequence type: type1, locus: 25	1:1	46
+26	26	G26_SE002, sequence type: type1, locus: 26	G26_SE003, sequence type: type1, locus: 26	1:1	4
+27	27	G27_SE002, sequence type: type1, locus: 27	G27_SE003, sequence type: type1, locus: 27	1:1	26
+28	28	G28_SE002, sequence type: type1, locus: 28	G28_SE003, sequence type: type1, locus: 28	1:1	6
+29	29	G29_SE002, sequence type: type1, locus: 29	G29_SE003, sequence type: type1, locus: 29	1:1	35
+30	30	G30_SE002, sequence type: type1, locus: 30	G30_SE003, sequence type: type1, locus: 30	1:1	29
+31	31	G31_SE002, sequence type: type1, locus: 31	G31_SE003, sequence type: type1, locus: 31	1:1	50
+32	32	G32_SE002, sequence type: type1, locus: 32	G32_SE003, sequence type: type1, locus: 32	1:1	14
+33	33	G33_SE002, sequence type: type1, locus: 33	G33_SE003, sequence type: type1, locus: 33	1:1	18
+34	34	G34_SE002, sequence type: type1, locus: 34	G34_SE003, sequence type: type1, locus: 34	1:1	11
+35	35	G35_SE002, sequence type: type1, locus: 35	G35_SE003, sequence type: type1, locus: 35	1:1	36
+36	36	G36_SE002, sequence type: type1, locus: 36	G36_SE003, sequence type: type1, locus: 36	1:1	9
+37	37	G37_SE002, sequence type: type1, locus: 37	G37_SE003, sequence type: type1, locus: 37	1:1	43
+38	38	G38_SE002, sequence type: type1, locus: 38	G38_SE003, sequence type: type1, locus: 38	1:1	21
+39	39	G39_SE002, sequence type: type1, locus: 39	G39_SE003, sequence type: type1, locus: 39	1:1	12
+40	40	G40_SE002, sequence type: type1, locus: 40	G40_SE003, sequence type: type1, locus: 40	1:1	8
+41	41	G41_SE002, sequence type: type1, locus: 41	G41_SE003, sequence type: type1, locus: 41	1:1	32
+42	42	G42_SE002, sequence type: type1, locus: 42	G42_SE003, sequence type: type1, locus: 42	1:1	25
+43	43	G43_SE002, sequence type: type1, locus: 43	G43_SE003, sequence type: type1, locus: 43	1:1	5
+44	44	G44_SE002, sequence type: type1, locus: 44	G44_SE003, sequence type: type1, locus: 44	1:1	48
+45	45	G45_SE002, sequence type: type1, locus: 45	G45_SE003, sequence type: type1, locus: 45	1:1	13
+46	46	G46_SE002, sequence type: type1, locus: 46	G46_SE003, sequence type: type1, locus: 46	1:1	16
+47	47	G47_SE002, sequence type: type1, locus: 47	G47_SE003, sequence type: type1, locus: 47	1:1	17
+48	48	G48_SE002, sequence type: type1, locus: 48	G48_SE003, sequence type: type1, locus: 48	1:1	24
+49	49	G49_SE002, sequence type: type1, locus: 49	G49_SE003, sequence type: type1, locus: 49	1:1	31
+50	50	G50_SE002, sequence type: type1, locus: 50	G50_SE003, sequence type: type1, locus: 50	1:1	27

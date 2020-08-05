@@ -1,0 +1,9 @@
+# Format: Protein 1<tab>Protein 2<tab>Protein ID1<tab>ProteinID2<tab>Orthology type<tab>OMA group (if any)
+# Every pair is listed only once, and in no particular order.
+# The map between sequence number and ID are given
+# in the file "Map-SeqNum-ID.map
+19	19	G19_SE001, sequence type: type1, locus: 19	G19_SE003, sequence type: type1, locus: 19	1:1	1
+29	29	G29_SE001, sequence type: type1, locus: 29	G29_SE003, sequence type: type1, locus: 29	1:1	2
+34	34	G34_SE001, sequence type: type1, locus: 34	G34_SE003, sequence type: type1, locus: 34	1:1	3
+40	40	G40_SE001, sequence type: type1, locus: 40	G40_SE003, sequence type: type1, locus: 40	1:1	5
+43	43	G43_SE001, sequence type: type1, locus: 43	G43_SE003, sequence type: type1, locus: 43	1:1	4

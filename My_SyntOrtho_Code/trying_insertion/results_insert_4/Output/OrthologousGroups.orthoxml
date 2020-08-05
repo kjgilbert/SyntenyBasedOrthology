@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orthoXML xmlns="http://orthoXML.org/2011/" version="0.3" origin="OMA standalone" originVersion="2.4.1">
+ <notes>
+MinScore=100; LengthTol=0.61; StablePairTol=1.81; VerifiedPairTol=1.53; MinSeqLen=50
+ </notes>
+ <species name="SE001_aa" NCBITaxId="-1">
+  <database name="SE001_aa" version="Cache/DB/SE001_aa.db">
+   <genes>
+    <gene id="1" protId="G1_SE001, sequence type: type1, locus: 1"/>
+    <gene id="2" protId="G2_SE001, sequence type: type1, locus: 2"/>
+    <gene id="3" protId="G3_SE001, sequence type: type1, locus: 3"/>
+    <gene id="4" protId="G4_SE001, sequence type: type1, locus: 4"/>
+    <gene id="5" protId="G5_SE001, sequence type: type1, locus: 5"/>
+    <gene id="6" protId="G6_SE001, sequence type: type1, locus: 6"/>
+    <gene id="7" protId="G7_SE001, sequence type: type1, locus: 7"/>
+    <gene id="8" protId="G8_SE001, sequence type: type1, locus: 8"/>
+    <gene id="9" protId="G9_SE001, sequence type: type1, locus: 9"/>
+    <gene id="10" protId="G10_SE001, sequence type: type1, locus: 10"/>
+    <gene id="11" protId="G11_SE001, sequence type: type1, locus: 11"/>
+    <gene id="12" protId="G12_SE001, sequence type: type1, locus: 12"/>
+    <gene id="13" protId="G13_SE001, sequence type: type1, locus: 13"/>
+    <gene id="14" protId="G14_SE001, sequence type: type1, locus: 14"/>
+    <gene id="15" protId="G15_SE001, sequence type: type1, locus: 15"/>
+    <gene id="16" protId="G16_SE001, sequence type: type1, locus: 16"/>
+    <gene id="17" protId="G17_SE001, sequence type: type1, locus: 17"/>
+    <gene id="18" protId="G18_SE001, sequence type: type1, locus: 18"/>
+    <gene id="19" protId="G19_SE001, sequence type: type1, locus: 19"/>
+    <gene id="20" protId="G20_SE001, sequence type: type1, locus: 20"/>
+    <gene id="21" protId="G21_SE001, sequence type: type1, locus: 21"/>
+    <gene id="22" protId="G22_SE001, sequence type: type1, locus: 22"/>
+    <gene id="23" protId="G23_SE001, sequence type: type1, locus: 23"/>
+    <gene id="24" protId="G24_SE001, sequence type: type1, locus: 24"/>
+    <gene id="25" protId="G25_SE001, sequence type: type1, locus: 25"/>
+    <gene id="26" protId="G26_SE001, sequence type: type1, locus: 26"/>
+    <gene id="27" protId="G27_SE001, sequence type: type1, locus: 27"/>
+    <gene id="28" protId="G28_SE001, sequence type: type1, locus: 28"/>
+    <gene id="29" protId="G29_SE001, sequence type: type1, locus: 29"/>
+    <gene id="30" protId="G30_SE001, sequence type: type1, locus: 30"/>
+    <gene id="31" protId="G31_SE001, sequence type: type1, locus: 31"/>
+    <gene id="32" protId="G32_SE001, sequence type: type1, locus: 32"/>
+    <gene id="33" protId="G33_SE001, sequence type: type1, locus: 33"/>
+    <gene id="34" protId="G34_SE001, sequence type: type1, locus: 34"/>
+    <gene id="35" protId="G35_SE001, sequence type: type1, locus: 35"/>
+    <gene id="36" protId="G36_SE001, sequence type: type1, locus: 36"/>
+    <gene id="37" protId="G37_SE001, sequence type: type1, locus: 37"/>
+    <gene id="38" protId="G38_SE001, sequence type: type1, locus: 38"/>
+    <gene id="39" protId="G39_SE001, sequence type: type1, locus: 39"/>
+    <gene id="40" protId="G40_SE001, sequence type: type1, locus: 40"/>
+    <gene id="41" protId="G41_SE001, sequence type: type1, locus: 41"/>
+    <gene id="42" protId="G42_SE001, sequence type: type1, locus: 42"/>
+    <gene id="43" protId="G43_SE001, sequence type: type1, locus: 43"/>
+    <gene id="44" protId="G44_SE001, sequence type: type1, locus: 44"/>
+    <gene id="45" protId="G45_SE001, sequence type: type1, locus: 45"/>
+    <gene id="46" protId="G46_SE001, sequence type: type1, locus: 46"/>
+    <gene id="47" protId="G47_SE001, sequence type: type1, locus: 47"/>
+    <gene id="48" protId="G48_SE001, sequence type: type1, locus: 48"/>
+    <gene id="49" protId="G49_SE001, sequence type: type1, locus: 49"/>
+    <gene id="50" protId="G50_SE001, sequence type: type1, locus: 50"/>
+   </genes>
+  </database>
+ </species>
+ <species name="SE002_aa" NCBITaxId="-1">
+  <database name="SE002_aa" version="Cache/DB/SE002_aa.db">
+   <genes>
+    <gene id="51" protId="G1_SE002, sequence type: type1, locus: 1"/>
+    <gene id="52" protId="G2_SE002, sequence type: type1, locus: 2"/>
+    <gene id="53" protId="G3_SE002, sequence type: type1, locus: 3"/>
+    <gene id="54" protId="G4_SE002, sequence type: type1, locus: 4"/>
+    <gene id="55" protId="G5_SE002, sequence type: type1, locus: 5"/>
+    <gene id="56" protId="G6_SE002, sequence type: type1, locus: 6"/>
+    <gene id="57" protId="G7_SE002, sequence type: type1, locus: 7"/>
+    <gene id="58" protId="G8_SE002, sequence type: type1, locus: 8"/>
+    <gene id="59" protId="G9_SE002, sequence type: type1, locus: 9"/>
+    <gene id="60" protId="G10_SE002, sequence type: type1, locus: 10"/>
+    <gene id="61" protId="G11_SE002, sequence type: type1, locus: 11"/>
+    <gene id="62" protId="G12_SE002, sequence type: type1, locus: 12"/>
+    <gene id="63" protId="G13_SE002, sequence type: type1, locus: 13"/>
+    <gene id="64" protId="G14_SE002, sequence type: type1, locus: 14"/>
+    <gene id="65" protId="G15_SE002, sequence type: type1, locus: 15"/>
+    <gene id="66" protId="G16_SE002, sequence type: type1, locus: 16"/>
+    <gene id="67" protId="G17_SE002, sequence type: type1, locus: 17"/>
+    <gene id="68" protId="G18_SE002, sequence type: type1, locus: 18"/>
+    <gene id="69" protId="G19_SE002, sequence type: type1, locus: 19"/>
+    <gene id="70" protId="G20_SE002, sequence type: type1, locus: 20"/>
+    <gene id="71" protId="G21_SE002, sequence type: type1, locus: 21"/>
+    <gene id="72" protId="G22_SE002, sequence type: type1, locus: 22"/>
+    <gene id="73" protId="G23_SE002, sequence type: type1, locus: 23"/>
+    <gene id="74" protId="G24_SE002, sequence type: type1, locus: 24"/>
+    <gene id="75" protId="G25_SE002, sequence type: type1, locus: 25"/>
+    <gene id="76" protId="G26_SE002, sequence type: type1, locus: 26"/>
+    <gene id="77" protId="G27_SE002, sequence type: type1, locus: 27"/>
+    <gene id="78" protId="G28_SE002, sequence type: type1, locus: 28"/>
+    <gene id="79" protId="G29_SE002, sequence type: type1, locus: 29"/>
+    <gene id="80" protId="G30_SE002, sequence type: type1, locus: 30"/>
+    <gene id="81" protId="G31_SE002, sequence type: type1, locus: 31"/>
+    <gene id="82" protId="G32_SE002, sequence type: type1, locus: 32"/>
+    <gene id="83" protId="G33_SE002, sequence type: type1, locus: 33"/>
+    <gene id="84" protId="G34_SE002, sequence type: type1, locus: 34"/>
+    <gene id="85" protId="G35_SE002, sequence type: type1, locus: 35"/>
+    <gene id="86" protId="G36_SE002, sequence type: type1, locus: 36"/>
+    <gene id="87" protId="G37_SE002, sequence type: type1, locus: 37"/>
+    <gene id="88" protId="G38_SE002, sequence type: type1, locus: 38"/>
+    <gene id="89" protId="G39_SE002, sequence type: type1, locus: 39"/>
+    <gene id="90" protId="G40_SE002, sequence type: type1, locus: 40"/>
+    <gene id="91" protId="G41_SE002, sequence type: type1, locus: 41"/>
+    <gene id="92" protId="G42_SE002, sequence type: type1, locus: 42"/>
+    <gene id="93" protId="G43_SE002, sequence type: type1, locus: 43"/>
+    <gene id="94" protId="G44_SE002, sequence type: type1, locus: 44"/>
+    <gene id="95" protId="G45_SE002, sequence type: type1, locus: 45"/>
+    <gene id="96" protId="G46_SE002, sequence type: type1, locus: 46"/>
+    <gene id="97" protId="G47_SE002, sequence type: type1, locus: 47"/>
+    <gene id="98" protId="G48_SE002, sequence type: type1, locus: 48"/>
+    <gene id="99" protId="G49_SE002, sequence type: type1, locus: 49"/>
+    <gene id="100" protId="G50_SE002, sequence type: type1, locus: 50"/>
+   </genes>
+  </database>
+ </species>
+ <species name="SE003_aa" NCBITaxId="-1">
+  <database name="SE003_aa" version="Cache/DB/SE003_aa.db">
+   <genes>
+    <gene id="101" protId="G1_SE003, sequence type: type1, locus: 1"/>
+    <gene id="102" protId="G2_SE003, sequence type: type1, locus: 2"/>
+    <gene id="103" protId="G3_SE003, sequence type: type1, locus: 3"/>
+    <gene id="104" protId="G4_SE003, sequence type: type1, locus: 4"/>
+    <gene id="105" protId="G5_SE003, sequence type: type1, locus: 5"/>
+    <gene id="106" protId="G6_SE003, sequence type: type1, locus: 6"/>
+    <gene id="107" protId="G7_SE003, sequence type: type1, locus: 7"/>
+    <gene id="108" protId="G8_SE003, sequence type: type1, locus: 8"/>
+    <gene id="109" protId="G9_SE003, sequence type: type1, locus: 9"/>
+    <gene id="110" protId="G10_SE003, sequence type: type1, locus: 10"/>
+    <gene id="111" protId="G11_SE003, sequence type: type1, locus: 11"/>
+    <gene id="112" protId="G12_SE003, sequence type: type1, locus: 12"/>
+    <gene id="113" protId="G13_SE003, sequence type: type1, locus: 13"/>
+    <gene id="114" protId="G14_SE003, sequence type: type1, locus: 14"/>
+    <gene id="115" protId="G15_SE003, sequence type: type1, locus: 15"/>
+    <gene id="116" protId="G16_SE003, sequence type: type1, locus: 16"/>
+    <gene id="117" protId="G17_SE003, sequence type: type1, locus: 17"/>
+    <gene id="118" protId="G18_SE003, sequence type: type1, locus: 18"/>
+    <gene id="119" protId="G19_SE003, sequence type: type1, locus: 19"/>
+    <gene id="120" protId="G20_SE003, sequence type: type1, locus: 20"/>
+    <gene id="121" protId="G21_SE003, sequence type: type1, locus: 21"/>
+    <gene id="122" protId="G22_SE003, sequence type: type1, locus: 22"/>
+    <gene id="123" protId="G23_SE003, sequence type: type1, locus: 23"/>
+    <gene id="124" protId="G24_SE003, sequence type: type1, locus: 24"/>
+    <gene id="125" protId="G25_SE003, sequence type: type1, locus: 25"/>
+    <gene id="126" protId="G26_SE003, sequence type: type1, locus: 26"/>
+    <gene id="127" protId="G27_SE003, sequence type: type1, locus: 27"/>
+    <gene id="128" protId="G28_SE003, sequence type: type1, locus: 28"/>
+    <gene id="129" protId="G29_SE003, sequence type: type1, locus: 29"/>
+    <gene id="130" protId="G30_SE003, sequence type: type1, locus: 30"/>
+    <gene id="131" protId="G31_SE003, sequence type: type1, locus: 31"/>
+    <gene id="132" protId="G32_SE003, sequence type: type1, locus: 32"/>
+    <gene id="133" protId="G33_SE003, sequence type: type1, locus: 33"/>
+    <gene id="134" protId="G34_SE003, sequence type: type1, locus: 34"/>
+    <gene id="135" protId="G35_SE003, sequence type: type1, locus: 35"/>
+    <gene id="136" protId="G36_SE003, sequence type: type1, locus: 36"/>
+    <gene id="137" protId="G37_SE003, sequence type: type1, locus: 37"/>
+    <gene id="138" protId="G38_SE003, sequence type: type1, locus: 38"/>
+    <gene id="139" protId="G39_SE003, sequence type: type1, locus: 39"/>
+    <gene id="140" protId="G40_SE003, sequence type: type1, locus: 40"/>
+    <gene id="141" protId="G41_SE003, sequence type: type1, locus: 41"/>
+    <gene id="142" protId="G42_SE003, sequence type: type1, locus: 42"/>
+    <gene id="143" protId="G43_SE003, sequence type: type1, locus: 43"/>
+    <gene id="144" protId="G44_SE003, sequence type: type1, locus: 44"/>
+    <gene id="145" protId="G45_SE003, sequence type: type1, locus: 45"/>
+    <gene id="146" protId="G46_SE003, sequence type: type1, locus: 46"/>
+    <gene id="147" protId="G47_SE003, sequence type: type1, locus: 47"/>
+    <gene id="148" protId="G48_SE003, sequence type: type1, locus: 48"/>
+    <gene id="149" protId="G49_SE003, sequence type: type1, locus: 49"/>
+    <gene id="150" protId="G50_SE003, sequence type: type1, locus: 50"/>
+   </genes>
+  </database>
+ </species>
+ <groups>
+  <orthologGroup id="1">
+   <geneRef id="48" />
+   <geneRef id="148" />
+  </orthologGroup>
+  <orthologGroup id="2">
+   <geneRef id="29" />
+   <geneRef id="129" />
+  </orthologGroup>
+  <orthologGroup id="3">
+   <geneRef id="12" />
+   <geneRef id="112" />
+  </orthologGroup>
+  <orthologGroup id="4">
+   <geneRef id="49" />
+   <geneRef id="149" />
+  </orthologGroup>
+  <orthologGroup id="5">
+   <geneRef id="47" />
+   <geneRef id="147" />
+  </orthologGroup>
+  <orthologGroup id="6">
+   <geneRef id="40" />
+   <geneRef id="140" />
+  </orthologGroup>
+  <orthologGroup id="7">
+   <geneRef id="42" />
+   <geneRef id="142" />
+  </orthologGroup>
+  <orthologGroup id="8">
+   <geneRef id="36" />
+   <geneRef id="136" />
+  </orthologGroup>
+  <orthologGroup id="9">
+   <geneRef id="7" />
+   <geneRef id="107" />
+  </orthologGroup>
+  <orthologGroup id="10">
+   <geneRef id="31" />
+   <geneRef id="131" />
+  </orthologGroup>
+  <orthologGroup id="11">
+   <geneRef id="19" />
+   <geneRef id="119" />
+  </orthologGroup>
+  <orthologGroup id="12">
+   <geneRef id="2" />
+   <geneRef id="102" />
+  </orthologGroup>
+  <orthologGroup id="13">
+   <geneRef id="35" />
+   <geneRef id="135" />
+  </orthologGroup>
+  <orthologGroup id="14">
+   <geneRef id="45" />
+   <geneRef id="145" />
+  </orthologGroup>
+  <orthologGroup id="15">
+   <geneRef id="5" />
+   <geneRef id="105" />
+  </orthologGroup>
+  <orthologGroup id="16">
+   <geneRef id="10" />
+   <geneRef id="110" />
+  </orthologGroup>
+  <orthologGroup id="17">
+   <geneRef id="41" />
+   <geneRef id="141" />
+  </orthologGroup>
+  <orthologGroup id="18">
+   <geneRef id="30" />
+   <geneRef id="130" />
+  </orthologGroup>
+  <orthologGroup id="19">
+   <geneRef id="6" />
+   <geneRef id="106" />
+  </orthologGroup>
+  <orthologGroup id="20">
+   <geneRef id="9" />
+   <geneRef id="109" />
+  </orthologGroup>
+  <orthologGroup id="21">
+   <geneRef id="4" />
+   <geneRef id="104" />
+  </orthologGroup>
+  <orthologGroup id="22">
+   <geneRef id="16" />
+   <geneRef id="116" />
+  </orthologGroup>
+  <orthologGroup id="23">
+   <geneRef id="22" />
+   <geneRef id="122" />
+  </orthologGroup>
+  <orthologGroup id="24">
+   <geneRef id="28" />
+   <geneRef id="128" />
+  </orthologGroup>
+  <orthologGroup id="25">
+   <geneRef id="23" />
+   <geneRef id="123" />
+  </orthologGroup>
+  <orthologGroup id="26">
+   <geneRef id="21" />
+   <geneRef id="121" />
+  </orthologGroup>
+  <orthologGroup id="27">
+   <geneRef id="1" />
+   <geneRef id="101" />
+  </orthologGroup>
+  <orthologGroup id="28">
+   <geneRef id="25" />
+   <geneRef id="125" />
+  </orthologGroup>
+  <orthologGroup id="29">
+   <geneRef id="33" />
+   <geneRef id="133" />
+  </orthologGroup>
+  <orthologGroup id="30">
+   <geneRef id="14" />
+   <geneRef id="114" />
+  </orthologGroup>
+  <orthologGroup id="31">
+   <geneRef id="50" />
+   <geneRef id="150" />
+  </orthologGroup>
+  <orthologGroup id="32">
+   <geneRef id="34" />
+   <geneRef id="134" />
+  </orthologGroup>
+  <orthologGroup id="33">
+   <geneRef id="27" />
+   <geneRef id="127" />
+  </orthologGroup>
+  <orthologGroup id="34">
+   <geneRef id="3" />
+   <geneRef id="103" />
+  </orthologGroup>
+  <orthologGroup id="35">
+   <geneRef id="24" />
+   <geneRef id="124" />
+  </orthologGroup>
+  <orthologGroup id="36">
+   <geneRef id="44" />
+   <geneRef id="144" />
+  </orthologGroup>
+  <orthologGroup id="37">
+   <geneRef id="39" />
+   <geneRef id="139" />
+  </orthologGroup>
+  <orthologGroup id="38">
+   <geneRef id="17" />
+   <geneRef id="117" />
+  </orthologGroup>
+  <orthologGroup id="39">
+   <geneRef id="18" />
+   <geneRef id="118" />
+  </orthologGroup>
+  <orthologGroup id="40">
+   <geneRef id="20" />
+   <geneRef id="120" />
+  </orthologGroup>
+  <orthologGroup id="41">
+   <geneRef id="15" />
+   <geneRef id="115" />
+  </orthologGroup>
+  <orthologGroup id="42">
+   <geneRef id="38" />
+   <geneRef id="138" />
+  </orthologGroup>
+  <orthologGroup id="43">
+   <geneRef id="13" />
+   <geneRef id="113" />
+  </orthologGroup>
+  <orthologGroup id="44">
+   <geneRef id="32" />
+   <geneRef id="132" />
+  </orthologGroup>
+  <orthologGroup id="45">
+   <geneRef id="43" />
+   <geneRef id="143" />
+  </orthologGroup>
+  <orthologGroup id="46">
+   <geneRef id="37" />
+   <geneRef id="137" />
+  </orthologGroup>
+  <orthologGroup id="47">
+   <geneRef id="11" />
+   <geneRef id="111" />
+  </orthologGroup>
+  <orthologGroup id="48">
+   <geneRef id="46" />
+   <geneRef id="146" />
+  </orthologGroup>
+  <orthologGroup id="49">
+   <geneRef id="8" />
+   <geneRef id="108" />
+  </orthologGroup>
+  <orthologGroup id="50">
+   <geneRef id="26" />
+   <geneRef id="126" />
+  </orthologGroup>
+ </groups>
+</orthoXML>
